@@ -1,0 +1,438 @@
+site,state,county,county_rank,city,street,road,buyer,project,n,n_recent,annual_crashes,intx_share,wet_share,night_share,crashes_avoided_yr,benefit_low,benefit_high,lat,lng
+3616_-8678,TN,Davidson,1,Nashville, 8th Ave S,Local,City / County,Intersection redesign,141,87.0,424.535,0.681,0.043,0.326,127.18,25785254.736,173645639.199,36.16,-86.779
+3578_-7864,NC,Wake,1,Raleigh,E Hargett St,Local,City / County,Intersection redesign,112,26.0,238.843,0.911,0.062,0.134,95.708,19404432.57,130675268.927,35.779,-78.64
+2975_-9537,TX,Harris,1,Houston,Pierce St,Local,City / County,Intersection redesign,106,30.0,238.794,0.887,0.028,0.132,93.175,18890842.703,127216600.721,29.75,-95.37
+3781_-12237,CA,San Francisco,1,San Francisco,San Francisco-Oakland Bay Brg E,Local,City / County,Intersection redesign,134,22.0,263.284,0.694,0.09,0.366,80.4,16300765.874,109774246.504,37.808,-122.367
+3492_-8199,SC,Spartanburg,1,Spartanburg,Reidville Rd,Local,City / County,Intersection redesign,71,27.0,176.761,0.789,0.07,0.113,61.344,12437176.696,83755678.167,34.922,-81.989
+3996_-7516,PA,Philadelphia,1,Philadelphia,N Clarion St,Local,City / County,Intersection redesign,57,38.0,178.467,0.772,0.158,0.105,60.616,12289716.237,82762635.21,39.958,-75.16
+3515_-8083,NC,Mecklenburg,1,Charlotte,Fairview Rd,Local,City / County,Intersection redesign,86,45.0,241.504,0.558,0.058,0.081,59.309,12024678.287,80977790.165,35.149,-80.83
+2619_-8015,FL,Broward,1,Fort Lauderdale,W Commercial Blvd,Local,City / County,Intersection redesign,66,32.0,179.966,0.712,0.091,0.303,56.389,11432763.636,76991659.366,26.189,-80.152
+2855_-8138,FL,Orange,1,Orlando,W Colonial Dr,Local,City / County,Intersection redesign,88,42.0,237.922,0.511,0.034,0.17,53.533,10853526.723,73090904.264,28.551,-81.38
+3482_-8228,SC,Greenville,1,Greenville,Woodruff Rd,Local,City / County,Intersection redesign,70,39.0,202.135,0.6,0.1,0.086,53.364,10819296.93,72860390.571,34.82,-82.28
+3027_-9774,TX,Travis,1,Austin,Congress Ave,Local,City / County,Intersection redesign,75,9.0,142.032,0.84,0.053,0.147,52.495,10643176.307,71674341.471,30.269,-97.74
+3279_-9680,TX,Dallas,1,Dallas,Woodall Rodgers Fwy S,Local,City / County,Intersection redesign,72,33.0,191.916,0.611,0.111,0.278,51.604,10462519.904,70457747.074,32.791,-96.8
+3402_-11816,CA,Los Angeles,1,Los Angeles,E Olympic Blvd,Local,City / County,Intersection redesign,87,32.0,213.587,0.529,0.011,0.299,49.69,10074420.284,67844167.825,34.02,-118.159
+3522_-8085,NC,Mecklenburg,2,Charlotte,S College St,Local,City / County,Intersection redesign,86,22.0,189.129,0.581,0.081,0.233,48.382,9809260.542,66058502.596,35.22,-80.85
+3531_-8075,NC,Mecklenburg,3,Charlotte,W W.T. Harris Blvd,Local,City / County,Intersection redesign,60,16.0,134.255,0.817,0.05,0.217,48.242,9780936.415,65867759.427,35.308,-80.751
+3346_-11207,AZ,Maricopa,1,Phoenix,N 7th St,Local,City / County,Intersection redesign,63,22.0,152.628,0.714,0.0,0.19,47.969,9725488.245,65494354.819,33.462,-112.067
+2976_-9536,TX,Harris,2,Houston,Fannin St,Local,City / County,Intersection redesign,54,9.0,108.806,0.981,0.056,0.13,46.988,9526625.961,64155156.554,29.761,-95.361
+3522_-8083,NC,Mecklenburg,4,Charlotte,Elizabeth Ave,Local,City / County,Intersection redesign,102,18.0,204.837,0.52,0.108,0.147,46.831,9494864.204,63941263.357,35.219,-80.83
+3346_-11208,AZ,Maricopa,2,Phoenix,Pearl Harbor Memorial Highway,Local,City / County,Intersection redesign,52,30.0,152.554,0.692,0.0,0.173,46.47,9421685.667,63448457.138,33.461,-112.081
+3505_-8085,NC,Mecklenburg,5,Charlotte,Johnston Rd,Local,City / County,Intersection redesign,61,30.0,167.358,0.607,0.049,0.098,44.665,9055715.192,60983902.199,35.052,-80.85
+2593_-8012,FL,Miami-Dade,1,North Miami Beach, 170th St,Local,City / County,Intersection redesign,54,52.0,202.983,0.5,0.0,0.13,44.656,9053883.072,60971564.149,25.933,-80.122
+3520_-8073,NC,Mecklenburg,6,Charlotte,Albemarle Rd,Local,City / County,Intersection redesign,63,25.0,159.39,0.635,0.063,0.079,44.528,9027871.276,60796392.913,35.202,-80.728
+3521_-8086,NC,Mecklenburg,7,Charlotte,Camden Rd,Local,City / County,Intersection redesign,70,34.0,190.936,0.529,0.071,0.157,44.406,9003201.241,60630257.501,35.212,-80.859
+3027_-9775,TX,Travis,2,Austin,W 6th St,Local,City / County,Intersection redesign,57,16.0,129.443,0.754,0.07,0.211,42.966,8711174.553,58663662.196,30.269,-97.749
+3755_-7745,VA,Richmond City,1,Richmond,N Belvidere St,Local,City / County,Intersection redesign,66,35.0,186.678,0.515,0.091,0.242,42.314,8578965.756,57773328.501,37.55,-77.448
+3754_-7744,VA,Richmond City,2,Richmond, E Cary St,Local,City / County,Intersection redesign,51,16.0,119.761,0.784,0.157,0.137,41.329,8379365.347,56429159.48,37.54,-77.439
+2975_-9536,TX,Harris,3,Houston,Chartres St,Local,City / County,Intersection redesign,57,14.0,124.924,0.737,0.018,0.228,40.502,8211589.749,55299308.283,29.749,-95.36
+4761_-12234,WA,King,1,Seattle,Alaskan Way Via,Local,City / County,Intersection redesign,48,7.0,94.665,0.958,0.083,0.229,39.917,8093031.069,54500898.569,47.61,-122.339
+3582_-7862,NC,Wake,2,Raleigh,E Six Forks Rd,Local,City / County,Intersection redesign,51,25.0,139.845,0.647,0.118,0.157,39.815,8072306.81,54361335.197,35.821,-78.621
+2560_-8038,FL,Miami-Dade,2,Miami, SW 117th Ave,Local,City / County,Intersection redesign,52,43.0,180.762,0.5,0.096,0.192,39.768,8062754.355,54297006.101,25.598,-80.38
+3582_-7860,NC,Wake,3,Raleigh,Capital Blvd,Local,City / County,Intersection redesign,64,15.0,138.373,0.641,0.047,0.219,39.004,7907906.264,53254212.609,35.818,-78.599
+3278_-9679,TX,Dallas,2,Dallas,Main St,Local,City / County,Intersection redesign,56,24.0,145.802,0.607,0.107,0.321,38.95,7896952.85,53180449.035,32.781,-96.79
+3890_-7702,DC,District of Columbia,1,Washington,New York Ave NW,Local,City / County,Intersection redesign,43,36.0,150.21,0.581,0.07,0.209,38.426,7790681.066,52464782.965,38.903,-77.019
+2983_-9538,TX,Harris,4,Houston,Crosstimbers St,Local,City / County,Intersection redesign,63,15.0,136.78,0.635,0.032,0.302,38.212,7747266.911,52172419.028,29.83,-95.382
+3510_-8099,NC,Mecklenburg,8,Charlotte,S Tryon St,Local,City / County,Intersection redesign,52,29.0,150.348,0.577,0.058,0.192,38.165,7737890.889,52109278.086,35.102,-80.988
+2569_-8036,FL,Miami-Dade,3,Miami, SW 88th St,Local,City / County,Intersection redesign,46,44.0,172.069,0.5,0.109,0.152,37.855,7675007.99,51685805.778,25.687,-80.361
+3577_-7864,NC,Wake,4,Raleigh,Martin Luther King Jr Blvd,Local,City / County,Intersection redesign,48,16.0,114.888,0.729,0.125,0.188,36.86,7473226.036,50326945.58,35.771,-78.639
+3278_-9680,TX,Dallas,3,Dallas,Commerce St,Local,City / County,Intersection redesign,60,22.0,147.797,0.567,0.067,0.233,36.851,7471353.204,50314333.367,32.779,-96.801
+4075_-7397,NY,New York,1,New York,FDR Dr S,Local,City / County,Intersection redesign,56,28.0,154.724,0.536,0.054,0.357,36.471,7394271.921,49795244.89,40.748,-73.969
+3586_-7858,NC,Wake,5,Raleigh,Spring Forest Rd,Local,City / County,Intersection redesign,52,11.0,110.122,0.75,0.058,0.154,36.34,7367832.8,49617195.919,35.857,-78.581
+3026_-9774,TX,Travis,3,Austin,E 2nd St,Local,City / County,Intersection redesign,69,22.0,162.235,0.507,0.029,0.275,36.209,7341233.549,49438068.582,30.262,-97.739
+3406_-11824,CA,Los Angeles,2,Los Angeles,N Broadway,Local,City / County,Intersection redesign,53,18.0,127.489,0.642,0.0,0.415,35.986,7295969.135,49133244.448,34.057,-118.241
+3485_-8245,SC,Greenville,2,Greenville,W Blue Ridge Dr,Local,City / County,Intersection redesign,59,13.0,125.861,0.644,0.068,0.136,35.668,7231483.815,48698980.962,34.851,-82.451
+3513_-8094,NC,Mecklenburg,9,Charlotte,S Tryon St,Local,City / County,Intersection redesign,57,22.0,142.946,0.561,0.105,0.105,35.31,7159019.475,48210984.361,35.131,-80.941
+2972_-9550,TX,Harris,5,Houston,US-59 N,Local,City / County,Intersection redesign,53,26.0,145.354,0.547,0.038,0.208,34.995,7095039.027,47780120.833,29.72,-95.5
+4004_-7631,PA,Lancaster,1,Lancaster, N Prince St,Local,City / County,Intersection redesign,44,20.0,117.226,0.659,0.091,0.114,33.995,6892442.313,46415773.795,40.039,-76.309
+3521_-8083,NC,Mecklenburg,10,Charlotte,Charlottetowne Ave,Local,City / County,Intersection redesign,49,11.0,105.291,0.714,0.163,0.163,33.091,6709167.48,45181546.1,35.213,-80.83
+2975_-9546,TX,Harris,6,Houston,San Felipe St,Local,City / County,Intersection redesign,44,18.0,112.796,0.659,0.0,0.295,32.711,6632004.634,44661908.35,29.75,-95.457
+2976_-9537,TX,Harris,7,Houston,Louisiana St,Local,City / County,Intersection redesign,57,12.0,120.398,0.614,0.018,0.246,32.529,6595062.239,44413127.184,29.76,-95.37
+3282_-9679,TX,Dallas,4,Dallas,US-75 S,Local,City / County,Intersection redesign,52,17.0,123.625,0.596,0.058,0.327,32.428,6574628.793,44275522.227,32.82,-96.789
+2977_-9541,TX,Harris,8,Houston,Shepherd Dr,Local,City / County,Intersection redesign,37,16.0,96.793,0.757,0.0,0.27,32.229,6534384.983,44004508.344,29.77,-95.41
+3850_-12143,CA,Sacramento,1,Sacramento,Stockton Blvd,Local,City / County,Intersection redesign,55,17.0,128.476,0.564,0.073,0.273,31.862,6459919.272,43503033.909,38.499,-121.431
+3026_-9775,TX,Travis,4,Austin,Barton Springs Rd,Local,City / County,Intersection redesign,46,23.0,127.163,0.565,0.065,0.109,31.625,6411843.939,43179280.201,30.26,-97.748
+3479_-8248,SC,Anderson,1,Greenville,Anderson Rd,Local,City / County,Intersection redesign,42,15.0,102.848,0.69,0.071,0.071,31.246,6335042.396,42662075.572,34.789,-82.482
+4004_-7630,PA,Lancaster,2,Lancaster, N Plum St,Local,City / County,Intersection redesign,34,13.0,85.2,0.824,0.147,0.265,30.873,6259290.225,42151937.733,40.04,-76.3
+2987_-9541,TX,Harris,9,Houston,W Little York Rd,Local,City / County,Intersection redesign,52,16.0,121.38,0.577,0.058,0.212,30.812,6247007.054,42069219.173,29.87,-95.41
+4072_-7394,NY,Kings,1,Brooklyn,Brooklyn Queens Expy,Local,City / County,Intersection redesign,43,18.0,111.148,0.628,0.093,0.326,30.708,6225924.547,41927243.247,40.723,-73.939
+3521_-8084,NC,Mecklenburg,11,Charlotte,Kenilworth Ave,Local,City / County,Intersection redesign,53,14.0,118.496,0.585,0.094,0.151,30.496,6182938.58,41637762.857,35.209,-80.84
+4086_-7391,NY,Bronx,1,Bronx,Major Deegan Expy S,State/US/Fwy,State DOT,Intersection redesign,38,14.0,94.04,0.737,0.158,0.316,30.489,6181505.517,41628112.177,40.862,-73.912
+2596_-8015,FL,Miami-Dade,4,Miami, NE 203rd St,Local,City / County,Intersection redesign,50,25.0,138.198,0.5,0.02,0.22,30.403,6164196.354,41511547.086,25.962,-80.15
+3756_-7747,VA,Richmond City,3,Richmond, W Broad St,Local,City / County,Intersection redesign,33,18.0,94.449,0.727,0.03,0.182,30.224,6127770.044,41266241.387,37.562,-77.471
+3281_-9685,TX,Dallas,5,Dallas,Inwood Rd,Local,City / County,Intersection redesign,41,16.0,103.42,0.659,0.098,0.195,29.967,6075608.339,40914968.82,32.811,-96.85
+2975_-9538,TX,Harris,10,Houston,Louisiana St,Local,City / County,Intersection redesign,27,13.0,73.431,0.926,0.074,0.296,29.916,6065434.027,40846451.954,29.75,-95.377
+3036_-9770,TX,Travis,5,Austin,N Lamar Blvd,Local,City / County,Intersection redesign,47,10.0,99.812,0.681,0.043,0.234,29.901,6062350.144,40825684.156,30.362,-97.698
+3352_-11211,AZ,Maricopa,3,Phoenix,W Bethany Home Rd,Local,City / County,Intersection redesign,31,12.0,77.998,0.871,0.032,0.29,29.891,6060263.859,40811634.492,33.523,-112.112
+3482_-8226,SC,Greenville,3,Greenville,S Highway 14,State/US/Fwy,State DOT,Intersection redesign,44,17.0,110.576,0.614,0.068,0.273,29.856,6053109.461,40763454.625,34.821,-82.257
+2578_-8034,FL,Miami-Dade,5,Miami,Dolphin Expy E,State/US/Fwy,State DOT,Intersection redesign,55,19.0,132.973,0.509,0.145,0.145,29.786,6038990.044,40668370.236,25.781,-80.338
+3224_-11088,AZ,Pima,1,Tucson,E Speedway Blvd,Local,City / County,Intersection redesign,34,16.0,91.779,0.735,0.0,0.088,29.693,6020193.347,40541787.645,32.238,-110.877
+3419_-11832,CA,Los Angeles,3,Burbank,W Burbank Blvd,Local,City / County,Intersection redesign,50,17.0,120.379,0.56,0.02,0.3,29.661,6013751.298,40498404.953,34.186,-118.32
+4762_-12234,WA,King,2,Seattle,Denny Way,Local,City / County,Intersection redesign,41,6.0,81.119,0.829,0.073,0.244,29.599,6001002.581,40412551.266,47.62,-122.34
+4232_-7105,MA,Suffolk,1,Dorchester,US-1 S,State/US/Fwy,State DOT,Intersection redesign,38,10.0,85.168,0.789,0.132,0.184,29.585,5998186.618,40393587.731,42.321,-71.053
+3355_-11211,AZ,Maricopa,4,Phoenix,W Northern Ave,Local,City / County,Intersection redesign,41,19.0,110.048,0.61,0.0,0.268,29.525,5986094.538,40312156.037,33.552,-112.112
+3044_-8428,FL,Leon,1,Tallahassee, Apalachee Pkwy,Local,City / County,Intersection redesign,30,11.0,74.134,0.9,0.133,0.133,29.357,5952025.761,40082726.675,30.44,-84.281
+2575_-8033,FL,Miami-Dade,6,Miami, Coral Way,Local,City / County,Intersection redesign,35,33.0,129.563,0.514,0.0,0.057,29.318,5944170.602,40029827.675,25.748,-80.332
+3222_-11091,AZ,Pima,2,Tucson, S Alvernon Way,Local,City / County,Intersection redesign,22,17.0,73.233,0.909,0.0,0.136,29.293,5939098.871,39995673.118,32.22,-110.91
+2578_-8029,FL,Miami-Dade,7,Miami,Dolphin Expy E,State/US/Fwy,State DOT,Intersection redesign,47,9.0,97.563,0.681,0.128,0.213,29.227,5925717.059,39905555.986,25.784,-80.289
+3584_-7858,NC,Wake,6,Raleigh,Buffaloe Rd,Local,City / County,Intersection redesign,38,7.0,78.481,0.842,0.105,0.184,29.079,5895714.436,39703509.319,35.839,-78.581
+3396_-11829,CA,Los Angeles,4,Los Angeles, W Manchester Ave,Local,City / County,Intersection redesign,27,22.0,92.554,0.704,0.0,0.259,28.657,5810201.837,39127641.833,33.96,-118.288
+4064_-7402,NY,Kings,2,Brooklyn,Brooklyn Queens Expy,State/US/Fwy,State DOT,Intersection redesign,36,17.0,97.319,0.667,0.083,0.444,28.547,5787783.053,38976667.019,40.639,-74.02
+3385_-8437,GA,Fulton,1,Atlanta,Lenox Rd NE,Local,City / County,Intersection redesign,44,5.0,83.718,0.773,0.068,0.068,28.464,5771006.645,38863689.656,33.851,-84.37
+3509_-8085,NC,Mecklenburg,12,Charlotte,Carmel Rd,Local,City / County,Intersection redesign,46,24.0,129.369,0.5,0.065,0.087,28.461,5770394.448,38859566.933,35.088,-80.849
+3590_-7865,NC,Wake,7,Raleigh,Strickland Rd,Local,City / County,Intersection redesign,24,14.0,70.436,0.917,0.042,0.25,28.409,5759868.579,38788682.575,35.9,-78.652
+3295_-9691,TX,Dallas,6,Carrollton,Crosby Rd,Local,City / County,Intersection redesign,34,12.0,82.999,0.765,0.059,0.176,27.927,5662007.496,38129656.693,32.95,-96.908
+3587_-7862,NC,Wake,8,Raleigh,Falls of Neuse Rd,Local,City / County,Intersection redesign,39,8.0,82.345,0.769,0.154,0.179,27.871,5650676.664,38053351.469,35.87,-78.621
+4486_-9331,MN,Hennepin,1,Minneapolis,Penn Ave S,Local,City / County,Intersection redesign,44,9.0,92.712,0.682,0.159,0.227,27.814,5639085.97,37975296.264,44.862,-93.309
+3584_-7861,NC,Wake,9,Raleigh,Pacific Dr,Local,City / County,Intersection redesign,49,17.0,118.752,0.531,0.041,0.163,27.725,5621154.62,37854541.174,35.84,-78.612
+3584_-7864,NC,Wake,10,Raleigh,Lassiter Mill Rd,Local,City / County,Intersection redesign,35,9.0,78.018,0.8,0.086,0.086,27.462,5567906.339,37495951.274,35.839,-78.642
+2809_-8274,FL,Pinellas,1,Palm Harbor,Alderman Rd,Local,City / County,Intersection redesign,38,16.0,98.455,0.632,0.079,0.184,27.36,5547182.356,37356389.762,28.093,-82.74
+2992_-9541,TX,Harris,11,Houston,Airline Dr,Local,City / County,Intersection redesign,44,11.0,97.194,0.636,0.091,0.205,27.214,5517609.351,37157236.275,29.918,-95.41
+3605_-9589,OK,Tulsa,1,Tulsa,E 81st St,Local,City / County,Intersection redesign,23,15.0,70.819,0.87,0.087,0.0,27.096,5493604.501,36995580.415,36.049,-95.886
+2972_-9552,TX,Harris,12,Houston,Fondren Rd,Local,City / County,Intersection redesign,39,22.0,113.284,0.538,0.077,0.077,26.839,5441608.88,36645426.308,29.719,-95.52
+3587_-7858,NC,Wake,11,Raleigh,Old Wake Forest Rd,Local,City / County,Intersection redesign,37,10.0,83.527,0.73,0.081,0.135,26.819,5437431.585,36617295.148,35.871,-78.581
+2569_-8031,FL,Miami-Dade,8,Miami, S Dixie Hwy,Local,City / County,Intersection redesign,35,22.0,106.505,0.571,0.114,0.314,26.778,5429226.333,36562038.521,25.689,-80.31
+2585_-8021,FL,Miami-Dade,9,Miami,NW 6th Ave,Local,City / County,Friction / drainage resurfacing,136,58.0,350.101,0.404,0.147,0.228,26.772,5428012.074,36553861.335,25.848,-80.209
+4073_-7404,NJ,Hudson,1,Jersey City,14th St,Local,City / County,Intersection redesign,30,21.0,95.75,0.633,0.133,0.467,26.682,5409740.647,36430816.069,40.731,-74.041
+2589_-8018,FL,Miami-Dade,10,North Miami, NE 8th Ave,Local,City / County,Intersection redesign,32,25.0,107.704,0.562,0.031,0.188,26.657,5404536.538,36395770.038,25.891,-80.182
+3489_-8229,SC,Greenville,4,Greer,Brushy Creek Rd,Local,City / County,Intersection redesign,36,14.0,90.727,0.667,0.111,0.139,26.613,5395734.127,36336491.958,34.892,-82.291
+2976_-9535,TX,Harris,13,Houston,Franklin St,Local,City / County,Intersection redesign,37,7.0,76.849,0.784,0.027,0.189,26.502,5373267.465,36185194.718,29.759,-95.351
+3516_-8074,NC,Mecklenburg,13,Charlotte,E Independence Blvd,Local,City / County,Intersection redesign,42,8.0,87.226,0.69,0.167,0.143,26.5,5372780.738,36181916.955,35.163,-80.74
+3488_-8236,SC,Greenville,5,Greenville,Pine Knoll Dr,Local,City / County,Intersection redesign,39,21.0,111.1,0.538,0.205,0.154,26.322,5336722.895,35939092.625,34.879,-82.361
+3385_-11792,CA,Orange,1,Anaheim,N Anaheim Blvd,Local,City / County,Intersection redesign,38,18.0,102.854,0.579,0.0,0.368,26.201,5312115.825,35773381.234,33.854,-117.92
+4000_-7523,PA,Montgomery,1,Philadelphia, W City Ave,Local,City / County,Intersection redesign,31,13.0,80.186,0.742,0.129,0.129,26.177,5307292.024,35740896.311,40.001,-75.229
+3591_-7878,NC,Wake,12,Durham,Brier Creek Pkwy,State/US/Fwy,State DOT,Intersection redesign,45,11.0,98.818,0.6,0.089,0.2,26.088,5289254.98,35619429.448,35.912,-78.781
+3765_-7761,VA,Henrico,1,Glen Allen,W Broad St,Local,City / County,Intersection redesign,40,23.0,117.148,0.5,0.1,0.175,25.773,5225281.917,35188615.654,37.651,-77.61
+3028_-9774,TX,Travis,6,Austin,W 15th St,Local,City / County,Intersection redesign,42,13.0,98.399,0.595,0.0,0.214,25.771,5224995.523,35186686.992,30.28,-97.741
+3767_-12212,CA,Alameda,1,Hayward,Hesperian Blvd,Local,City / County,Intersection redesign,30,17.0,87.184,0.667,0.067,0.333,25.574,5185034.82,34917579.632,37.67,-122.12
+3815_-12245,CA,Sonoma,1,Sonoma,Sears Point Rd,Local,City / County,Intersection redesign,39,15.0,97.905,0.59,0.0,0.359,25.405,5150764.386,34686792.253,38.151,-122.449
+3506_-8081,NC,Mecklenburg,14,Charlotte,Ballantyne Commons Pkwy,State/US/Fwy,State DOT,Intersection redesign,41,20.0,112.25,0.512,0.073,0.171,25.297,5128916.098,34539659.325,35.059,-80.812
+4077_-7403,NJ,Hudson,2,Union City,NJ-495 E,Local,City / County,Intersection redesign,29,16.0,83.32,0.69,0.0,0.138,25.283,5126092.041,34520641.279,40.772,-74.031
+4065_-7401,NY,Kings,3,Brooklyn,Brooklyn Queens Expy,State/US/Fwy,State DOT,Intersection redesign,32,12.0,79.669,0.719,0.031,0.406,25.195,5108271.369,34400631.527,40.653,-74.009
+3351_-11211,AZ,Maricopa,5,Phoenix,W Camelback Rd,Local,City / County,Intersection redesign,42,12.0,96.17,0.595,0.024,0.262,25.187,5106632.141,34389592.478,33.51,-112.112
+3518_-8088,NC,Mecklenburg,15,Charlotte,E Woodlawn Rd,Local,City / County,Intersection redesign,43,6.0,84.355,0.674,0.14,0.163,25.032,5075136.024,34177488.18,35.178,-80.879
+3717_-12199,CA,Santa Clara,1,Los Gatos,Idylwild Rd,Local,City / County,Intersection redesign,36,10.0,81.882,0.694,0.111,0.25,25.02,5072640.065,34160679.643,37.171,-121.99
+3522_-8088,NC,Mecklenburg,16,Charlotte,Remount Rd,Local,City / County,Intersection redesign,36,10.0,81.882,0.694,0.083,0.056,25.02,5072640.065,34160679.643,35.221,-80.882
+3554_-9760,OK,Oklahoma,1,Oklahoma City,N Meridian Ave,Local,City / County,Intersection redesign,30,6.0,63.127,0.9,0.033,0.167,24.998,5068292.305,34131400.52,35.54,-97.601
+3035_-9754,TX,Travis,7,Manor,US Highway 290 E,State/US/Fwy,State DOT,Intersection redesign,33,12.0,81.336,0.697,0.091,0.242,24.943,5057106.134,34056069.491,30.349,-97.539
+3324_-8758,AL,Tuscaloosa,1,Northport,Lurleen B Wallace Blvd,Local,City / County,Intersection redesign,30,16.0,85.024,0.667,0.033,0.2,24.94,5056550.041,34052324.592,33.239,-87.577
+3556_-9764,OK,Oklahoma,2,Oklahoma City,N Rockwell Ave,Local,City / County,Intersection redesign,31,5.0,62.561,0.903,0.032,0.258,24.863,5040910.308,33947001.942,35.558,-97.639
+3524_-8080,NC,Mecklenburg,17,Charlotte,The Plaza,Local,City / County,Intersection redesign,32,10.0,75.27,0.75,0.094,0.188,24.839,5036044.581,33914234.675,35.238,-80.8
+3403_-11816,CA,Los Angeles,5,Los Angeles, S Woods Ave,Local,City / County,Intersection redesign,37,22.0,109.906,0.514,0.0,0.27,24.833,5034773.485,33905674.737,34.03,-118.159
+3523_-8085,NC,Mecklenburg,18,Charlotte,S Mint St,Local,City / County,Intersection redesign,40,9.0,86.209,0.65,0.05,0.15,24.656,4998888.982,33664017.726,35.229,-80.848
+3520_-8074,NC,Mecklenburg,19,Charlotte,Farm Pond Ln,Local,City / County,Intersection redesign,33,6.0,68.07,0.818,0.152,0.303,24.505,4968343.679,33458316.498,35.203,-80.741
+3524_-8078,NC,Mecklenburg,20,Charlotte,E Sugar Creek Rd,Local,City / County,Intersection redesign,33,13.0,83.533,0.667,0.091,0.212,24.503,4967919.29,33455458.537,35.24,-80.779
+3399_-11836,CA,Los Angeles,6,Los Angeles,S Fairfax Ave,Local,City / County,Intersection redesign,38,17.0,100.657,0.553,0.026,0.289,24.476,4962323.091,33417772.053,33.989,-118.36
+3219_-11086,AZ,Pima,3,Tucson, E 34th St,Local,City / County,Intersection redesign,25,21.0,86.885,0.64,0.0,0.16,24.467,4960534.662,33405728.234,32.193,-110.859
+2974_-9538,TX,Harris,14,Houston,Elgin St,Local,City / County,Intersection redesign,33,7.0,70.29,0.788,0.03,0.212,24.367,4940350.907,33269804.775,29.741,-95.379
+2972_-9556,TX,Harris,15,Houston,Westpark Dr,Local,City / County,Intersection redesign,39,11.0,89.032,0.615,0.026,0.154,24.107,4887644.197,32914861.98,29.721,-95.558
+3225_-11099,AZ,Pima,4,Tucson, N Flowing Wells Rd,Local,City / County,Intersection redesign,35,22.0,106.505,0.514,0.029,0.143,24.101,4886303.7,32905834.669,32.25,-110.989
+3024_-9773,TX,Travis,8,Austin,Willow Creek Dr,Local,City / County,Intersection redesign,37,10.0,83.527,0.649,0.0,0.351,23.839,4833272.52,32548706.798,30.24,-97.728
+3869_-12136,CA,Sacramento,2,North Highlands,Elkhorn Blvd,Local,City / County,Intersection redesign,29,9.0,68.077,0.793,0.034,0.483,23.756,4816520.298,32435892.31,38.694,-121.363
+2974_-9539,TX,Harris,16,Houston,Westheimer Rd,Local,City / County,Intersection redesign,28,10.0,68.594,0.786,0.036,0.214,23.714,4807903.83,32377866.432,29.743,-95.391
+3584_-7857,NC,Wake,13,Raleigh,N New Hope Rd,Local,City / County,Intersection redesign,34,12.0,82.999,0.647,0.0,0.118,23.63,4790929.42,32263555.663,35.843,-78.572
+4086_-7383,NY,Bronx,2,Bronx,Hutchinson River Pkwy N,State/US/Fwy,State DOT,Friction / drainage resurfacing,58,31.0,164.675,0.017,0.276,0.31,23.622,4789343.225,32252873.753,40.859,-73.828
+2861_-8143,FL,Orange,2,Orlando,Clarcona Ocoee Rd,Local,City / County,Intersection redesign,32,19.0,94.912,0.562,0.094,0.281,23.491,4762681.746,32073327.356,28.612,-81.431
+3587_-7872,NC,Wake,14,Raleigh,Glenwood Ave,Local,City / County,Intersection redesign,27,14.0,75.592,0.704,0.148,0.185,23.405,4745352.683,31956628.249,35.87,-78.719
+3578_-7868,NC,Wake,15,Raleigh,Western Blvd,Local,City / County,Intersection redesign,29,5.0,59.263,0.897,0.069,0.207,23.378,4739815.352,31919338.201,35.78,-78.678
+3578_-7861,NC,Wake,16,Raleigh,S Raleigh Blvd,Local,City / County,Intersection redesign,36,12.0,86.312,0.611,0.083,0.306,23.208,4705401.872,31687587.502,35.78,-78.613
+2981_-9541,TX,Harris,17,Houston,N Shepherd Dr,Local,City / County,Intersection redesign,39,13.0,93.475,0.564,0.026,0.231,23.201,4703914.772,31677572.928,29.812,-95.41
+3582_-7859,NC,Wake,17,Raleigh,Capital Blvd,Local,City / County,Intersection redesign,32,9.0,73.065,0.719,0.094,0.25,23.107,4684790.073,31548781.469,35.822,-78.59
+2971_-9540,TX,Harris,18,Houston,Holcombe Blvd,Local,City / County,Intersection redesign,32,9.0,73.065,0.719,0.031,0.156,23.107,4684790.073,31548781.469,29.709,-95.401
+3317_-8753,AL,Tuscaloosa,2,Tuscaloosa,Skyland Blvd E,Local,City / County,Intersection redesign,29,11.0,72.458,0.724,0.138,0.241,23.087,4680732.796,31521458.548,33.168,-87.526
+3378_-7898,SC,Horry,1,Myrtle Beach,Gardner Lacy Rd,Local,City / County,Intersection redesign,25,7.0,57.001,0.92,0.16,0.12,23.074,4678194.496,31504364.873,33.776,-78.982
+3615_-8680,TN,Davidson,2,Nashville,Grand Ave,Local,City / County,Intersection redesign,32,12.0,79.669,0.656,0.0,0.156,23.004,4664073.858,31409272.264,36.15,-86.8
+3578_-7863,NC,Wake,18,Raleigh,E Edenton St,Local,City / County,Intersection redesign,31,6.0,64.778,0.806,0.129,0.323,22.986,4660271.023,31383662.83,35.78,-78.632
+3820_-8571,KY,Jefferson,1,Louisville,Poplar Level Rd,Local,City / County,Intersection redesign,26,5.0,54.287,0.962,0.308,0.077,22.967,4656554.363,31358633.728,38.195,-85.708
+3582_-7871,NC,Wake,19,Raleigh,Blue Ridge Rd,Local,City / County,Intersection redesign,32,6.0,66.426,0.781,0.062,0.156,22.834,4629473.915,31176265.871,35.82,-78.707
+3608_-8673,TN,Davidson,3,Nashville,Nolensville Pike,Local,City / County,Intersection redesign,38,12.0,89.611,0.579,0.079,0.289,22.827,4628127.978,31167201.925,36.08,-86.727
+2855_-8137,FL,Orange,3,Orlando, E Colonial Dr,Local,City / County,Intersection redesign,29,24.0,100.283,0.517,0.138,0.241,22.823,4627262.147,31161371.162,28.553,-81.369
+3526_-8079,NC,Mecklenburg,21,Charlotte,N Tryon St,Local,City / County,Intersection redesign,36,15.0,92.929,0.556,0.083,0.167,22.716,4605557.913,31015208.336,35.259,-80.793
+3405_-11820,CA,Los Angeles,7,Los Angeles,San Bernardino Fwy W,Local,City / County,Intersection redesign,41,9.0,87.839,0.585,0.049,0.244,22.624,4586905.939,30889600.35,34.054,-118.203
+3519_-8073,NC,Mecklenburg,22,Charlotte,Idlewild Rd,Local,City / County,Intersection redesign,34,14.0,87.398,0.588,0.088,0.118,22.621,4586233.945,30885074.94,35.188,-80.729
+4074_-7397,NY,New York,2,New York,FDR Dr N,Local,City / County,Intersection redesign,39,16.0,100.114,0.513,0.128,0.308,22.59,4580000.098,30843094.347,40.741,-73.973
+3824_-12227,CA,Napa,1,Napa,Napa Vallejo Hwy,Local,City / County,Intersection redesign,39,10.0,86.806,0.59,0.026,0.128,22.525,4566877.74,30754724.448,38.241,-122.269
+3403_-11842,CA,Los Angeles,8,Los Angeles,Overland Ave,Local,City / County,Intersection redesign,43,11.0,95.567,0.535,0.093,0.302,22.492,4560098.666,30709072.132,34.032,-118.418
+3515_-8093,NC,Mecklenburg,23,Charlotte,S Tryon St,Local,City / County,Intersection redesign,29,10.0,70.27,0.724,0.138,0.103,22.389,4539362.307,30569427.275,35.147,-80.927
+4184_-8768,IL,Cook,1,Chicago,Adlai E Stevenson Expy N,State/US/Fwy,State DOT,Intersection redesign,26,12.0,69.567,0.731,0.115,0.231,22.368,4535117.292,30540840.07,41.837,-87.678
+3517_-8081,NC,Mecklenburg,24,Charlotte,Sharon Ln,Local,City / County,Intersection redesign,37,17.0,98.99,0.514,0.054,0.027,22.366,4534711.523,30538107.496,35.171,-80.809
+3017_-8160,FL,Duval,1,Jacksonville,Old Saint Augustine Rd,Local,City / County,Intersection redesign,36,14.0,90.727,0.556,0.139,0.167,22.178,4496445.105,30280409.965,30.169,-81.601
+3574_-7865,NC,Wake,20,Raleigh,Chapanoke Rd,Local,City / County,Intersection redesign,30,10.0,71.941,0.7,0.1,0.367,22.158,4492405.837,30253208.319,35.739,-78.65
+3525_-8082,NC,Mecklenburg,25,Charlotte,N Tryon St,Local,City / County,Intersection redesign,31,12.0,77.998,0.645,0.065,0.097,22.141,4489084.34,30230840.364,35.249,-80.819
+3523_-8081,NC,Mecklenburg,26,Charlotte,The Plaza,Local,City / County,Intersection redesign,24,8.0,57.499,0.875,0.083,0.125,22.137,4488213.57,30224976.339,35.233,-80.811
+4043_-7989,PA,Allegheny,1,Pittsburgh,Parkway East,Local,City / County,Intersection redesign,38,9.0,82.942,0.605,0.132,0.158,22.089,4478413.161,30158977.443,40.428,-79.891
+3389_-11828,CA,Los Angeles,9,Gardena,E Redondo Beach Blvd,Local,City / County,Intersection redesign,34,15.0,89.591,0.559,0.0,0.235,22.029,4466250.11,30077067.809,33.89,-118.279
+3605_-8665,TN,Davidson,4,Antioch,Mount View Rd,Local,City / County,Intersection redesign,28,14.0,77.295,0.643,0.071,0.179,21.864,4432749.12,29851462.095,36.049,-86.65
+3894_-12110,CA,Placer,1,Auburn,Grass Valley Hwy,Local,City / County,Intersection redesign,26,13.0,71.727,0.692,0.0,0.385,21.849,4429853.41,29831961.515,38.942,-121.097
+4175_-8794,IL,DuPage,1,Willowbrook,Kingery Hwy,Local,City / County,Intersection redesign,26,7.0,58.677,0.846,0.192,0.192,21.846,4429181.202,29827434.662,41.752,-87.944
+3471_-8659,AL,Madison,1,Huntsville,Memorial Pkwy SW,Local,City / County,Intersection redesign,35,13.0,86.863,0.571,0.143,0.286,21.84,4427932.811,29819027.626,34.708,-86.59
+2855_-8139,FL,Orange,4,Orlando, W Colonial Dr,Local,City / County,Intersection redesign,23,15.0,70.819,0.696,0.0,0.174,21.677,4394883.601,29596464.332,28.552,-81.392
+3573_-7865,NC,Wake,21,Raleigh,Tryon Rd,Local,City / County,Intersection redesign,36,13.0,88.521,0.556,0.083,0.278,21.639,4387135.489,29544286.221,35.73,-78.651
+4760_-12233,WA,King,3,Seattle,4th Ave S,Local,City / County,Intersection redesign,43,6.0,84.355,0.581,0.14,0.14,21.579,4375117.262,29463351.88,47.602,-122.329
+3578_-7865,NC,Wake,22,Raleigh, N West St,Local,City / County,Intersection redesign,22,9.0,56.271,0.864,0.045,0.273,21.383,4335283.602,29195100.064,35.781,-78.648
+2570_-8037,FL,Miami-Dade,11,Miami, SW 107th Ave,Local,City / County,Intersection redesign,21,15.0,67.291,0.714,0.095,0.143,21.149,4287802.067,28875345.168,25.702,-80.367
+3588_-7854,NC,Wake,23,Raleigh,Perry Creek Rd,Local,City / County,Intersection redesign,28,11.0,70.777,0.679,0.071,0.179,21.132,4284458.327,28852827.418,35.876,-78.54
+3396_-11824,CA,Los Angeles,10,Los Angeles, Firestone Blvd,Local,City / County,Intersection redesign,36,12.0,86.312,0.556,0.0,0.167,21.098,4277638.065,28806897.729,33.96,-118.241
+3572_-7865,NC,Wake,24,Raleigh,Fayetteville Rd,Local,City / County,Intersection redesign,30,7.0,65.336,0.733,0.033,0.2,21.082,4274256.255,28784123.604,35.724,-78.65
+3390_-11827,CA,Los Angeles,11,Gardena,E Rosecrans Ave,Local,City / County,Intersection redesign,31,14.0,82.37,0.581,0.032,0.323,21.044,4266635.748,28732804.823,33.901,-118.268
+3522_-8072,NC,Mecklenburg,27,Charlotte,Hickory Grove Rd,Local,City / County,Intersection redesign,26,6.0,56.484,0.846,0.154,0.115,21.029,4263640.228,28712632.093,35.222,-80.725
+3399_-11837,CA,Los Angeles,12,Los Angeles,W Slauson Ave,Local,City / County,Intersection redesign,29,20.0,91.886,0.517,0.0,0.172,20.912,4239815.684,28552190.467,33.988,-118.37
+2970_-9560,TX,Harris,19,Houston,S Dairy Ashford St,Local,City / County,Intersection redesign,27,10.0,66.913,0.704,0.037,0.296,20.718,4200562.093,28287845.016,29.702,-95.6
+3518_-8080,NC,Mecklenburg,28,Charlotte,N Sharon Amity Rd,Local,City / County,Intersection redesign,28,14.0,77.295,0.607,0.036,0.107,20.649,4186485.28,28193047.534,35.176,-80.799
+3417_-11854,CA,Los Angeles,13,Tarzana,Reseda Blvd,Local,City / County,Intersection redesign,31,8.0,69.2,0.677,0.032,0.355,20.626,4181879.051,28162027.804,34.173,-118.537
+3590_-7860,NC,Wake,25,Raleigh,Morrocroft Dr,Local,City / County,Intersection redesign,26,11.0,67.4,0.692,0.115,0.077,20.531,4162605.519,28032234.063,35.903,-78.603
+3039_-9109,LA,East Baton Rouge,1,Baton Rouge,Bluebonnet Blvd,Local,City / County,Intersection redesign,29,6.0,61.472,0.759,0.034,0.138,20.519,4160133.61,28015587.485,30.391,-91.091
+3586_-7868,NC,Wake,26,Raleigh,Creedmoor Rd,Local,City / County,Intersection redesign,30,9.0,69.743,0.667,0.033,0.167,20.458,4147794.413,27932491.632,35.859,-78.681
+3547_-9752,OK,Oklahoma,3,Oklahoma City,W Sheridan Ave,Local,City / County,Intersection redesign,20,6.0,46.382,1.0,0.05,0.1,20.408,4137637.356,27864090.961,35.47,-97.52
+3527_-8088,NC,Mecklenburg,29,Charlotte,N Hoskins Rd,Local,City / County,Intersection redesign,34,12.0,82.999,0.559,0.029,0.118,20.408,4137620.863,27863979.891,35.268,-80.883
+3512_-8096,NC,Mecklenburg,30,Charlotte,John Price Rd,Local,City / County,Intersection redesign,25,5.0,52.62,0.88,0.08,0.12,20.374,4130833.319,27818270.535,35.117,-80.959
+3281_-9680,TX,Dallas,7,Dallas,Turtle Creek Blvd,Local,City / County,Intersection redesign,27,11.0,69.092,0.667,0.148,0.148,20.267,4109028.833,27671432.587,32.809,-96.802
+3482_-8244,SC,Greenville,6,Greenville,White Horse Rd,Local,City / County,Intersection redesign,33,5.0,65.847,0.697,0.061,0.061,20.193,4094076.107,27570736.446,34.817,-82.442
+2746_-8258,FL,Manatee,1,Bradenton,14th St W,Local,City / County,Intersection redesign,34,16.0,91.779,0.5,0.059,0.176,20.191,4093731.476,27568415.598,27.461,-82.577
+3533_-8080,NC,Mecklenburg,31,Charlotte,W Sugar Creek Rd,Local,City / County,Intersection redesign,30,10.0,71.941,0.633,0.033,0.1,20.048,4064557.662,27371950.383,35.332,-80.799
+3294_-9675,TX,Dallas,8,Richardson,W Spring Valley Rd,Local,City / County,Intersection redesign,39,9.0,84.577,0.538,0.026,0.154,20.038,4062684.6,27359336.622,32.938,-96.749
+3026_-9761,TX,Travis,9,Austin,FM 969,Local,City / County,Intersection redesign,24,8.0,57.499,0.792,0.125,0.333,20.029,4060764.659,27346407.164,30.257,-97.612
+3575_-7861,NC,Wake,27,Raleigh,Rock Quarry Rd,Local,City / County,Intersection redesign,26,12.0,69.567,0.654,0.231,0.308,20.014,4057736.525,27326014.8,35.752,-78.611
+3707_-12122,CA,Santa Clara,2,Hollister,Fifield Rd,Local,City / County,Intersection redesign,26,7.0,58.677,0.769,0.0,0.269,19.86,4026528.365,27115849.693,37.066,-121.22
+3522_-8090,NC,Mecklenburg,32,Charlotte,Wilkinson Blvd,Local,City / County,Intersection redesign,31,10.0,73.608,0.613,0.065,0.097,19.85,4024574.11,27102689.154,35.225,-80.899
+3578_-7869,NC,Wake,28,Raleigh,Western Blvd,Local,City / County,Intersection redesign,34,9.0,76.371,0.588,0.118,0.353,19.766,4007583.753,26988270.993,35.783,-78.691
+4158_-7391,NY,Dutchess,1,Wappingers Falls,Old Hopewell Rd,Local,City / County,Intersection redesign,27,12.0,71.264,0.63,0.074,0.111,19.743,4002789.266,26955983.48,41.58,-73.909
+2743_-8258,FL,Manatee,2,Bradenton,Bayshore Gardens Pkwy,State/US/Fwy,State DOT,Intersection redesign,23,12.0,64.434,0.696,0.13,0.304,19.722,3998657.778,26928160.8,27.431,-82.575
+4297_-8567,MI,Kent,1,Grand Rapids,Ionia Ave NW,Local,City / County,Friction / drainage resurfacing,43,11.0,95.567,0.535,0.395,0.186,19.647,3983327.293,26824920.717,42.969,-85.67
+3586_-7864,NC,Wake,29,Raleigh,Six Forks Rd,Local,City / County,Intersection redesign,35,9.0,78.018,0.571,0.086,0.086,19.616,3977075.956,26782822.339,35.859,-78.639
+4077_-7392,NY,Queens,1,Astoria,31st St,Local,City / County,Intersection redesign,20,12.0,59.226,0.75,0.2,0.1,19.545,3962616.649,26685449.024,40.771,-73.919
+3590_-7861,NC,Wake,30,Raleigh,Falls of Neuse Rd,Local,City / County,Friction / drainage resurfacing,54,30.0,155.867,0.111,0.241,0.241,19.512,3956047.137,26641207.963,35.898,-78.61
+3520_-8087,NC,Mecklenburg,33,Charlotte,South Blvd,Local,City / County,Intersection redesign,28,12.0,72.956,0.607,0.0,0.179,19.49,3951444.798,26610214.43,35.201,-80.868
+3370_-11708,CA,Riverside,1,Winchester,Winchester Rd,Local,City / County,Intersection redesign,22,13.0,64.836,0.682,0.0,0.273,19.451,3943599.269,26557380.286,33.697,-117.084
+3487_-8243,SC,Greenville,7,Greenville,W Blue Ridge Dr,Local,City / County,Intersection redesign,33,14.0,85.726,0.515,0.182,0.242,19.431,3939630.623,26530654.235,34.87,-82.431
+3514_-8074,NC,Mecklenburg,34,Charlotte,Monroe Rd,Local,City / County,Intersection redesign,33,8.0,72.506,0.606,0.091,0.03,19.335,3920105.218,26399164.3,35.139,-80.738
+4090_-7414,NJ,Passaic,1,Paterson,I-80,Interstate,State DOT,Friction / drainage resurfacing,29,19.0,89.757,0.0,0.414,0.103,19.313,3915691.374,26369440.15,40.901,-74.139
+4236_-8322,MI,Wayne,1,Detroit,MI-39 N,Local,City / County,Intersection redesign,31,9.0,71.406,0.613,0.097,0.355,19.257,3904198.045,26292040.629,42.359,-83.217
+2986_-9540,TX,Harris,20,Houston,W Parker Rd,Local,City / County,Intersection redesign,38,11.0,87.391,0.5,0.132,0.316,19.226,3898006.953,26250347.953,29.86,-95.402
+3043_-9108,LA,East Baton Rouge,2,Baton Rouge,Old Hammond Hwy,Local,City / County,Intersection redesign,36,10.0,81.882,0.528,0.167,0.139,19.015,3855206.45,25962116.528,30.43,-91.081
+4187_-8780,IL,Cook,2,Forest Park,Harlem Ave,Local,City / County,Intersection redesign,24,8.0,57.499,0.75,0.042,0.5,18.975,3847040.203,25907122.577,41.874,-87.803
+3414_-8088,SC,Richland,1,Columbia,N Springs Rd,Local,City / County,Intersection redesign,20,8.0,50.696,0.85,0.0,0.25,18.96,3844103.694,25887347.242,34.138,-80.881
+3491_-8210,SC,Spartanburg,2,Duncan,E Main St,Local,City / County,Intersection redesign,21,7.0,50.246,0.857,0.095,0.286,18.95,3842019.537,25873311.903,34.908,-82.101
+2981_-9544,TX,Harris,21,Houston,W T.C. Jester Blvd,Local,City / County,Intersection redesign,30,8.0,67.542,0.633,0.0,0.233,18.822,3816016.092,25698196.908,29.81,-95.44
+3617_-8678,TN,Davidson,5,Nashville,5th Ave N,Local,City / County,Intersection redesign,31,12.0,77.998,0.548,0.065,0.129,18.82,3815721.689,25696214.31,36.168,-86.78
+3522_-8081,NC,Mecklenburg,35,Charlotte,Central Ave,Local,City / County,Intersection redesign,31,12.0,77.998,0.548,0.032,0.161,18.82,3815721.689,25696214.31,35.22,-80.812
+4073_-7383,NY,Queens,2,Flushing,Jewel Ave,Local,City / County,Intersection redesign,22,12.0,62.708,0.682,0.318,0.364,18.812,3814128.719,25685486.768,40.728,-73.833
+3609_-9592,OK,Tulsa,2,Tulsa,S Yale Ave,Local,City / County,Intersection redesign,28,15.0,79.456,0.536,0.036,0.179,18.729,3797204.298,25571512.641,36.09,-95.921
+3492_-8232,SC,Greenville,8,Taylors,Edwards Rd,Local,City / County,Intersection redesign,22,7.0,51.943,0.818,0.091,0.227,18.7,3791272.365,25531565.226,34.917,-82.317
+3391_-8122,SC,Lexington,1,Lexington, Platt Springs Rd,Local,City / County,Friction / drainage resurfacing,53,32.0,158.62,0.358,0.226,0.132,18.675,3786337.635,25498333.277,33.908,-81.222
+3769_-12211,CA,Alameda,2,San Leandro,E 14th St,Local,City / County,Intersection redesign,35,9.0,78.018,0.543,0.0,0.314,18.635,3778222.158,25443681.222,37.69,-122.109
+4179_-8763,IL,Cook,3,Chicago,Dan Ryan Expy S,State/US/Fwy,State DOT,Intersection redesign,27,10.0,66.913,0.63,0.185,0.37,18.537,3758397.662,25310177.12,41.792,-87.631
+3047_-9111,LA,East Baton Rouge,3,Baton Rouge,Airline Hwy,Local,City / County,Intersection redesign,30,6.0,63.127,0.667,0.067,0.133,18.517,3754290.596,25282518.904,30.47,-91.108
+3481_-8223,SC,Greenville,9,Simpsonville,Woodruff Rd,Local,City / County,Intersection redesign,30,6.0,63.127,0.667,0.1,0.133,18.517,3754290.596,25282518.904,34.806,-82.231
+2985_-9539,TX,Harris,22,Houston,Werner St,Local,City / County,Intersection redesign,30,6.0,63.127,0.667,0.033,0.2,18.517,3754290.596,25282518.904,29.847,-95.393
+3480_-8242,SC,Greenville,10,Greenville,White Horse Rd,Local,City / County,Intersection redesign,23,12.0,64.434,0.652,0.043,0.174,18.49,3748741.667,25245150.75,34.801,-82.424
+3349_-11207,AZ,Maricopa,6,Phoenix,E Indian School Rd,Local,City / County,Intersection redesign,23,7.0,53.635,0.783,0.043,0.087,18.469,3744522.913,25216740.399,33.493,-112.07
+3486_-8227,SC,Greenville,11,Greenville,Pelham Rd,Local,City / County,Intersection redesign,33,12.0,81.336,0.515,0.091,0.152,18.436,3737861.056,25171877.45,34.859,-82.269
+3864_-12127,CA,Sacramento,3,Fair Oaks,Fair Oaks Blvd,Local,City / County,Intersection redesign,31,11.0,75.805,0.548,0.0,0.29,18.291,3708435.603,24973717.63,38.641,-121.272
+3029_-8152,FL,Duval,2,Jacksonville,Beach Blvd,Local,City / County,Intersection redesign,24,12.0,66.152,0.625,0.083,0.167,18.192,3688343.76,24838413.13,30.288,-81.521
+3822_-12226,CA,Napa,2,Napa,Jameson Canyon Rd,Local,City / County,Intersection redesign,22,13.0,64.836,0.636,0.045,0.136,18.154,3680692.651,24786888.267,38.223,-122.258
+4191_-8797,IL,DuPage,2,Elmhurst,W North Ave,Local,City / County,Intersection redesign,23,8.0,55.807,0.739,0.13,0.043,18.15,3679757.991,24780593.985,41.907,-87.967
+3218_-11100,AZ,Pima,5,Tucson, S Mission Rd,Local,City / County,Intersection redesign,20,14.0,63.427,0.65,0.0,0.45,18.14,3677832.68,24767628.368,32.178,-111.003
+3769_-12206,CA,Alameda,3,Castro Valley,Center St,Local,City / County,Intersection redesign,29,12.0,74.642,0.552,0.0,0.241,18.12,3673741.991,24740080.435,37.692,-122.061
+3579_-7865,NC,Wake,31,Raleigh,W Peace St,Local,City / County,Intersection redesign,32,11.0,77.472,0.531,0.062,0.125,18.109,3671537.367,24725233.837,35.789,-78.649
+3577_-7858,NC,Wake,32,Raleigh,Sunnybrook Rd,Local,City / County,Intersection redesign,34,6.0,69.711,0.588,0.029,0.147,18.043,3658134.099,24634972.209,35.77,-78.581
+3286_-9677,TX,Dallas,9,Dallas,Caruth Haven Ln,Local,City / County,Intersection redesign,33,11.0,79.134,0.515,0.121,0.242,17.937,3636683.725,24490518.961,32.859,-96.77
+4075_-7394,NY,Queens,3,Long Island City,Queens Blvd,Local,City / County,Intersection redesign,23,11.0,62.288,0.652,0.043,0.348,17.874,3623889.943,24404361.793,40.75,-73.939
+3286_-9690,TX,Dallas,10,Dallas,W Northwest Hwy,Local,City / County,Intersection redesign,37,8.0,79.078,0.514,0.135,0.216,17.867,3622529.024,24395196.959,32.862,-96.9
+2596_-8019,FL,Miami-Dade,12,Miami, Ives Dairy Rd,Local,City / County,Intersection redesign,24,16.0,74.683,0.542,0.0,0.417,17.799,3608780.471,24302610.079,25.961,-80.188
+3320_-8753,AL,Tuscaloosa,3,Tuscaloosa,McFarland Blvd E,Local,City / County,Intersection redesign,26,10.0,65.227,0.615,0.231,0.115,17.662,3580815.064,24114282.639,33.199,-87.526
+3579_-7866,NC,Wake,33,Raleigh,Cameron St,Local,City / County,Intersection redesign,30,6.0,63.127,0.633,0.133,0.233,17.591,3566576.066,24018392.958,35.79,-78.661
+3502_-8085,NC,Mecklenburg,36,Charlotte,Ardrey Kell Rd,Local,City / County,Intersection redesign,22,10.0,58.424,0.682,0.091,0.182,17.527,3553576.688,23930851.243,35.021,-80.849
+3489_-8237,SC,Greenville,12,Greenville,Rutherford Rd,Local,City / County,Intersection redesign,26,8.0,60.865,0.654,0.077,0.192,17.511,3550196.823,23908090.221,34.889,-82.373
+3291_-9690,TX,Dallas,11,Dallas,Harry Hines Blvd,Local,City / County,Friction / drainage resurfacing,84,29.0,201.995,0.0,0.167,0.31,17.506,3549322.749,23902203.946,32.909,-96.897
+3866_-12138,CA,Sacramento,4,North Highlands,Roseville Rd,Local,City / County,Intersection redesign,26,5.0,54.287,0.731,0.038,0.5,17.455,3538981.316,23832561.633,38.659,-121.381
+3019_-8174,FL,Clay,1,Orange Park,Blanding Blvd,Local,City / County,Intersection redesign,27,10.0,66.913,0.593,0.0,0.296,17.447,3537315.447,23821343.172,30.19,-81.739
+3042_-9118,LA,East Baton Rouge,4,Baton Rouge,Highland Rd,Local,City / County,Intersection redesign,27,10.0,66.913,0.593,0.074,0.259,17.447,3537315.447,23821343.172,30.42,-91.179
+3583_-7857,NC,Wake,34,Raleigh,N New Hope Rd,Local,City / County,Intersection redesign,23,7.0,53.635,0.739,0.043,0.217,17.443,3536493.863,23815810.377,35.83,-78.569
+2977_-9540,TX,Harris,23,Houston,E 2nd St,Local,City / County,Intersection redesign,23,7.0,53.635,0.739,0.043,0.13,17.443,3536493.863,23815810.377,29.77,-95.399
+3564_-7884,NC,Wake,35,Holly Springs,Avent Ferry Rd,Local,City / County,Intersection redesign,20,9.0,52.842,0.75,0.05,0.05,17.438,3535435.683,23808684.279,35.642,-78.839
+3035_-9768,TX,Travis,10,Austin,E Rundberg Ln,Local,City / County,Intersection redesign,27,12.0,71.264,0.556,0.074,0.185,17.42,3531872.882,23784691.306,30.35,-97.677
+4009_-7513,PA,Montgomery,2,Elkins Park,Township Line Rd,Local,City / County,Intersection redesign,25,9.0,61.363,0.64,0.0,0.12,17.28,3503427.653,23593132.605,40.089,-75.128
+3531_-8072,NC,Mecklenburg,37,Charlotte,University City Blvd,Local,City / County,Intersection redesign,33,6.0,68.07,0.576,0.152,0.152,17.244,3496241.848,23544741.24,35.308,-80.72
+3606_-9587,OK,Tulsa,3,Tulsa,E 71st St,Local,City / County,Intersection redesign,24,7.0,55.321,0.708,0.0,0.25,17.242,3495669.983,23540890.125,36.06,-95.87
+3582_-7870,NC,Wake,36,Raleigh,Blue Ridge Rd,Local,City / County,Intersection redesign,21,6.0,48.079,0.81,0.095,0.095,17.125,3472095.028,23382129.309,35.818,-78.702
+3412_-8089,SC,Richland,2,Columbia,Two Notch Rd,Local,City / County,Intersection redesign,23,8.0,55.807,0.696,0.043,0.13,17.082,3463301.638,23322911.986,34.118,-80.886
+3592_-7879,NC,Wake,37,Raleigh,T.W. Alexander Dr,Local,City / County,Intersection redesign,23,8.0,55.807,0.696,0.13,0.304,17.082,3463301.638,23322911.986,35.918,-78.79
+2864_-8144,FL,Orange,5,Orlando,Maitland Blvd,Local,City / County,Intersection redesign,20,12.0,59.226,0.65,0.05,0.35,16.939,3434267.762,23127389.154,28.64,-81.441
+3512_-8088,NC,Mecklenburg,38,Charlotte,South Blvd,Local,City / County,Intersection redesign,20,10.0,54.979,0.7,0.1,0.25,16.934,3433232.539,23120417.652,35.12,-80.88
+3482_-8227,SC,Greenville,13,Greenville, Woodruff Rd,Local,City / County,Friction / drainage resurfacing,36,17.0,97.319,0.417,0.333,0.056,16.869,3420053.622,23031666.875,34.82,-82.269
+3514_-8089,NC,Mecklenburg,39,Charlotte,Nations Ford Rd,Local,City / County,Intersection redesign,24,8.0,57.499,0.667,0.0,0.167,16.866,3419591.292,23028553.401,35.138,-80.892
+3522_-8089,NC,Mecklenburg,40,Charlotte,Wilkinson Blvd,Local,City / County,Intersection redesign,27,7.0,60.348,0.63,0.111,0.037,16.719,3389652.863,22826939.045,35.222,-80.89
+3042_-9767,TX,Travis,11,Austin,W Howard Ln,Local,City / County,Intersection redesign,35,7.0,73.575,0.514,0.029,0.229,16.649,3375538.322,22731887.493,30.423,-97.671
+4014_-7512,PA,Montgomery,3,Willow Grove,W Moreland Rd,Local,City / County,Intersection redesign,31,6.0,64.778,0.581,0.032,0.194,16.55,3355395.137,22596237.238,40.142,-75.119
+2971_-9552,TX,Harris,24,Houston,Clarewood Dr,Local,City / County,Intersection redesign,25,14.0,72.163,0.52,0.04,0.32,16.511,3347504.21,22543097.375,29.708,-95.52
+3524_-8074,NC,Mecklenburg,41,Charlotte,E W.T. Harris Blvd,Local,City / County,Intersection redesign,26,8.0,60.865,0.615,0.038,0.192,16.481,3341361.716,22501731.972,35.238,-80.738
+4086_-11190,UT,Davis,1,North Salt Lake, E 1100 N,Local,City / County,Intersection redesign,24,9.0,59.672,0.625,0.083,0.25,16.41,3327009.297,22405078.483,40.861,-111.901
+3045_-9117,LA,East Baton Rouge,5,Baton Rouge,Florida St,Local,City / County,Intersection redesign,30,9.0,69.743,0.533,0.133,0.1,16.366,3318235.531,22345993.306,30.45,-91.167
+3754_-7737,VA,Henrico,2,Richmond,Nine Mile Rd,Local,City / County,Intersection redesign,22,10.0,58.424,0.636,0.045,0.227,16.359,3316671.575,22335461.16,37.543,-77.37
+3317_-8752,AL,Tuscaloosa,4,Tuscaloosa,McFarland Blvd E,Local,City / County,Intersection redesign,27,10.0,66.913,0.556,0.074,0.296,16.357,3316233.232,22332509.223,33.171,-87.523
+3614_-8680,TN,Davidson,6,Nashville, 21st Ave S,Local,City / County,Intersection redesign,25,9.0,61.363,0.6,0.08,0.12,16.2,3284463.425,22118561.817,36.139,-86.799
+4080_-7391,NY,Bronx,3,Bronx,Bruckner Blvd,Local,City / County,Intersection redesign,25,9.0,61.363,0.6,0.2,0.2,16.2,3284463.425,22118561.817,40.805,-73.912
+3771_-12212,CA,Alameda,4,San Leandro, Liberty St,Local,City / County,Intersection redesign,28,10.0,68.594,0.536,0.107,0.357,16.169,3278116.248,22075818.022,37.708,-122.122
+2990_-9541,TX,Harris,25,Houston,North Fwy,Local,City / County,Intersection redesign,28,8.0,64.212,0.571,0.036,0.321,16.145,3273305.762,22043422.766,29.899,-95.412
+3290_-9677,TX,Dallas,12,Dallas,Royal Ln,Local,City / County,Intersection redesign,28,8.0,64.212,0.571,0.143,0.286,16.145,3273305.762,22043422.766,32.899,-96.769
+3751_-7761,VA,Chesterfield,1,Richmond,Huguenot Rd,Local,City / County,Intersection redesign,21,6.0,48.079,0.762,0.095,0.143,16.118,3267854.144,22006709.938,37.508,-77.611
+3490_-8234,SC,Greenville,14,Greenville,W Lee Rd,Local,City / County,Intersection redesign,23,10.0,60.135,0.609,0.0,0.174,16.106,3265360.509,21989917.051,34.898,-82.34
+2637_-8012,FL,Palm Beach,1,Boca Raton,I-95 N,Interstate,State DOT,Friction / drainage resurfacing,51,21.0,130.947,0.0,0.235,0.353,16.022,3248362.398,21875446.675,26.369,-80.118
+4231_-8788,IL,Lake,1,North Chicago,N Skokie Hwy,Local,City / County,Intersection redesign,20,7.0,48.542,0.75,0.05,0.2,16.019,3247773.393,21871480.14,42.309,-87.877
+3477_-8239,SC,Greenville,15,Greenville,Augusta Rd,Local,City / County,Intersection redesign,23,8.0,55.807,0.652,0.0,0.261,16.014,3246845.286,21865229.987,34.77,-82.387
+2974_-9548,TX,Harris,26,Houston,Westheimer Rd,Local,City / County,Intersection redesign,26,11.0,67.4,0.538,0.0,0.231,15.969,3237582.071,21802848.716,29.738,-95.48
+3996_-7673,PA,York,1,York, E Philadelphia St,Local,City / County,Intersection redesign,26,7.0,58.677,0.615,0.077,0.192,15.888,3221222.692,21692679.754,39.961,-76.729
+2972_-9555,TX,Harris,27,Houston,Woodchase Dr,Local,City / County,Intersection redesign,24,5.0,50.949,0.708,0.042,0.292,15.879,3219409.945,21680472.169,29.72,-95.549
+3236_-8622,AL,Montgomery,1,Montgomery,Eastern Blvd,Local,City / County,Intersection redesign,21,13.0,63.091,0.571,0.0,0.143,15.863,3216118.649,21658307.595,32.359,-86.218
+3505_-8198,SC,Spartanburg,3,Boiling Springs,Rainbow Lake Rd,Local,City / County,Intersection redesign,21,7.0,50.246,0.714,0.095,0.048,15.792,3201682.947,21561093.252,35.048,-81.983
+3906_-8454,KY,Kenton,1,Covington,I-71 N,Interstate,State DOT,Friction / drainage resurfacing,39,9.0,84.577,0.077,0.359,0.179,15.788,3200903.018,21555840.975,39.059,-84.539
+3017_-8175,FL,Clay,2,Orange Park,Blanding Blvd,Local,City / County,Intersection redesign,24,12.0,66.152,0.542,0.083,0.333,15.766,3196564.592,21526624.713,30.171,-81.747
+4486_-9327,MN,Hennepin,2,Minneapolis,Portland Ave S,Local,City / County,Intersection redesign,23,6.0,51.456,0.696,0.043,0.13,15.75,3193283.294,21504527.465,44.862,-93.269
+4220_-8799,IL,Lake,2,Lake Zurich,State Route 22,Local,City / County,Intersection redesign,22,11.0,60.57,0.591,0.091,0.182,15.748,3192889.691,21501876.829,42.197,-87.99
+2861_-8148,FL,Orange,6,Orlando, Clarcona Ocoee Rd,Local,City / County,Intersection redesign,22,16.0,71.155,0.5,0.0,0.182,15.654,3173820.832,21373461.414,28.613,-81.477
+3492_-8231,SC,Greenville,16,Taylors,Wade Hampton Blvd,Local,City / County,Intersection redesign,20,8.0,50.696,0.7,0.05,0.15,15.614,3165732.454,21318991.846,34.922,-82.309
+2971_-9549,TX,Harris,28,Houston,Bellaire Blvd,Local,City / County,Intersection redesign,24,6.0,53.137,0.667,0.042,0.25,15.587,3160183.498,21281623.513,29.708,-95.492
+3866_-12131,CA,Sacramento,5,Fair Oaks,Dewey Dr,Local,City / County,Intersection redesign,22,7.0,51.943,0.682,0.045,0.273,15.583,3159393.637,21276304.355,38.662,-121.309
+2727_-8246,FL,Sarasota,1,Sarasota,Clark Rd,Local,City / County,Intersection redesign,21,15.0,67.291,0.524,0.048,0.19,15.509,3144388.183,21175253.123,27.269,-82.462
+3280_-9678,TX,Dallas,13,Dallas,Ross Ave,Local,City / County,Intersection redesign,24,14.0,70.436,0.5,0.0,0.208,15.496,3141746.498,21157463.222,32.801,-96.781
+3579_-7859,NC,Wake,38,Raleigh,New Bern Ave,Local,City / County,Intersection redesign,23,7.0,53.635,0.652,0.043,0.087,15.391,3120435.761,21013950.332,35.789,-78.588
+4042_-8005,PA,Allegheny,2,Pittsburgh,Greentree Rd,Local,City / County,Intersection redesign,21,8.0,52.406,0.667,0.048,0.238,15.373,3116722.197,20988942.075,40.42,-80.048
+4004_-7629,PA,Lancaster,3,Lancaster, N Broad St,Local,City / County,Intersection redesign,20,6.0,46.382,0.75,0.0,0.3,15.306,3103228.017,20898068.22,40.04,-76.29
+2973_-9544,TX,Harris,29,Houston,Richmond Ave,Local,City / County,Intersection redesign,24,11.0,63.999,0.542,0.042,0.333,15.253,3092504.787,20825854.774,29.731,-95.44
+4275_-7377,NY,Albany,1,Latham,Troy Schenectady Rd,Local,City / County,Intersection redesign,30,5.0,60.914,0.567,0.233,0.233,15.188,3079276.469,20736771.313,42.752,-73.77
+4025_-7566,PA,Montgomery,4,Pottstown,W King St,Local,City / County,Intersection redesign,22,8.0,54.11,0.636,0.045,0.364,15.151,3071774.934,20686253.729,40.25,-75.659
+4080_-7334,NY,Suffolk,1,Huntington Station,Long Island Expy W,State/US/Fwy,State DOT,Intersection redesign,20,9.0,52.842,0.65,0.1,0.2,15.113,3064044.259,20634193.042,40.798,-73.341
+3612_-9590,OK,Tulsa,4,Tulsa,S Sheridan Rd,Local,City / County,Intersection redesign,23,5.0,49.273,0.696,0.087,0.217,15.082,3057778.418,20591996.992,36.118,-95.903
+2979_-9554,TX,Harris,30,Houston,Gessner Rd,Local,City / County,Intersection redesign,22,12.0,62.708,0.545,0.091,0.136,15.05,3051302.975,20548389.414,29.788,-95.543
+4183_-8803,IL,DuPage,3,Downers Grove,Butterfield Rd,Local,City / County,Intersection redesign,28,6.0,59.813,0.571,0.179,0.179,15.039,3049057.729,20533269.255,41.831,-88.029
+3867_-12138,CA,Sacramento,6,North Highlands, Watt Ave,Local,City / County,Intersection redesign,25,11.0,65.703,0.52,0.0,0.24,15.033,3047840.228,20525070.241,38.67,-121.382
+3485_-8223,SC,Greenville,17,Greenville, Pelham Rd,Local,City / County,Intersection redesign,24,13.0,68.298,0.5,0.083,0.042,15.026,3046394.663,20515335.371,34.852,-82.231
+2974_-9541,TX,Harris,31,Houston,Westheimer Rd,Local,City / County,Intersection redesign,20,7.0,48.542,0.7,0.05,0.0,14.951,3031255.167,20413381.464,29.74,-95.411
+4182_-8772,IL,Cook,4,Chicago,S Pulaski Rd,Local,City / County,Intersection redesign,20,7.0,48.542,0.7,0.15,0.4,14.951,3031255.167,20413381.464,41.823,-87.723
+4070_-11202,UT,Salt Lake,1,West Valley City,S 5600 W,Local,City / County,Intersection redesign,22,6.0,49.771,0.682,0.045,0.227,14.931,3027238.225,20386330.17,40.698,-112.023
+4077_-11195,UT,Salt Lake,2,Salt Lake City,I-215 N,Interstate,State DOT,Friction / drainage resurfacing,21,7.0,50.246,0.0,0.571,0.286,14.93,3027045.696,20385033.62,40.768,-111.951
+2855_-8140,FL,Orange,7,Orlando,N Orange Blossom Trl,Local,City / County,Intersection redesign,20,16.0,67.564,0.5,0.15,0.25,14.864,3013620.778,20294626.201,28.552,-81.397
+3676_-12175,CA,Monterey,1,Castroville,Merritt St,Local,City / County,Intersection redesign,26,11.0,67.4,0.5,0.038,0.154,14.828,3006326.208,20245502.379,36.761,-121.752
+3523_-8092,NC,Mecklenburg,42,Charlotte,Boyer St,Local,City / County,Intersection redesign,23,6.0,51.456,0.652,0.13,0.261,14.766,2993703.088,20160494.499,35.23,-80.923
+2856_-8121,FL,Orange,8,Orlando,N Alafaya Trl,Local,City / County,Intersection redesign,22,14.0,66.955,0.5,0.091,0.227,14.73,2986463.203,20111738.942,28.562,-81.207
+3996_-7517,PA,Philadelphia,2,Philadelphia,N 16th St,Local,City / County,Intersection redesign,26,5.0,54.287,0.615,0.038,0.423,14.699,2980194.792,20069525.586,39.959,-75.17
+2974_-9554,TX,Harris,32,Houston,S Gessner Rd,Local,City / County,Intersection redesign,22,9.0,56.271,0.591,0.045,0.182,14.63,2966246.675,19975594.781,29.738,-95.54
+3347_-8208,GA,Richmond,1,Augusta,Wrightsboro Rd,Local,City / County,Intersection redesign,28,7.0,62.015,0.536,0.107,0.0,14.618,2963707.542,19958495.498,33.468,-82.081
+3047_-9780,TX,Williamson,1,Austin,Lakeline Mall Dr,Local,City / County,Intersection redesign,32,6.0,66.426,0.5,0.031,0.156,14.614,2962863.306,19952810.157,30.47,-97.8
+3532_-8078,NC,Mecklenburg,43,Charlotte,Mallard Creek Rd,Local,City / County,Intersection redesign,32,6.0,66.426,0.5,0.031,0.094,14.614,2962863.306,19952810.157,35.318,-80.779
+2745_-8251,FL,Manatee,3,Bradenton,45th St E,Local,City / County,Intersection redesign,21,13.0,63.091,0.524,0.048,0.333,14.541,2948108.761,19853448.629,27.446,-82.508
+4012_-7512,PA,Montgomery,5,Abington,Old York Rd,Local,City / County,Intersection redesign,25,10.0,63.536,0.52,0.04,0.12,14.537,2947325.496,19848173.886,40.119,-75.12
+3044_-9109,LA,East Baton Rouge,6,Baton Rouge,Airline Hwy,Local,City / County,Intersection redesign,22,11.0,60.57,0.545,0.045,0.0,14.537,2947282.792,19847886.304,30.442,-91.088
+3764_-7756,VA,Henrico,3,Glen Allen,W Broad St,Local,City / County,Intersection redesign,20,8.0,50.696,0.65,0.0,0.15,14.499,2939608.707,19796206.715,37.64,-77.561
+3850_-12144,CA,Sacramento,7,Sacramento,Florin Rd,Local,City / County,Intersection redesign,26,8.0,60.865,0.538,0.077,0.423,14.42,2923691.501,19689015.476,38.496,-121.439
+3515_-8088,NC,Mecklenburg,44,Charlotte,South Blvd,Local,City / County,Intersection redesign,23,9.0,57.974,0.565,0.13,0.217,14.418,2923187.725,19685622.896,35.152,-80.878
+3549_-9758,OK,Oklahoma,4,Oklahoma City,N Portland Ave,Local,City / County,Intersection redesign,30,7.0,65.336,0.5,0.067,0.233,14.374,2914265.628,19625538.821,35.492,-97.581
+4008_-7516,PA,Montgomery,6,Wyncote, Ogontz Ave,Local,City / County,Intersection redesign,26,10.0,65.227,0.5,0.038,0.231,14.35,2909412.239,19592854.644,40.08,-75.16
+4110_-7380,NY,Westchester,1,Hawthorne,Sprain Brook Pkwy S,State/US/Fwy,State DOT,Friction / drainage resurfacing,26,13.0,71.727,0.0,0.385,0.269,14.345,2908489.613,19586641.399,41.1,-73.799
+3234_-11105,AZ,Pima,6,Tucson,N Thornydale Rd,Local,City / County,Intersection redesign,20,12.0,59.226,0.55,0.0,0.05,14.333,2905918.876,19569329.284,32.338,-111.048
+3291_-9673,TX,Dallas,14,Dallas,I-635 W,Interstate,State DOT,Friction / drainage resurfacing,60,23.0,150.047,0.05,0.183,0.317,14.304,2900174.505,19530644.967,32.908,-96.731
+2975_-9539,TX,Harris,33,Houston,Montrose Blvd,Local,City / County,Intersection redesign,21,8.0,52.406,0.619,0.0,0.238,14.274,2894099.183,19489731.927,29.751,-95.39
+3277_-9684,TX,Dallas,15,Dallas,Sylvan Ave,Local,City / County,Intersection redesign,27,8.0,62.541,0.519,0.111,0.148,14.269,2892921.446,19481800.693,32.767,-96.836
+3974_-7556,DE,New Castle,1,Wilmington,N Adams St,Local,City / County,Intersection redesign,27,8.0,62.541,0.519,0.185,0.111,14.269,2892921.446,19481800.693,39.74,-75.561
+4320_-7758,NY,Monroe,1,Rochester,Goodman St N,Local,City / County,Intersection redesign,21,6.0,48.079,0.667,0.238,0.143,14.103,2859372.376,19255871.196,43.197,-77.579
+2985_-9530,TX,Harris,34,Houston,Homestead Rd,Local,City / County,Intersection redesign,21,6.0,48.079,0.667,0.095,0.048,14.103,2859372.376,19255871.196,29.849,-95.302
+3755_-7747,VA,Richmond City,4,Richmond,S Meadow St,Local,City / County,Intersection redesign,22,8.0,54.11,0.591,0.091,0.182,14.069,2852362.439,19208664.177,37.55,-77.469
+3566_-7885,NC,Wake,39,Holly Springs,New Hill Rd,Local,City / County,Intersection redesign,21,12.0,60.972,0.524,0.095,0.19,14.053,2849118.813,19186820.624,35.659,-78.848
+3990_-7518,PA,Philadelphia,3,Philadelphia,S Broad St,Local,City / County,Intersection redesign,22,10.0,58.424,0.545,0.136,0.273,14.022,2842861.35,19144680.994,39.899,-75.178
+4319_-7763,NY,Monroe,2,Rochester,W Ridge Rd,Local,City / County,Intersection redesign,24,5.0,50.949,0.625,0.167,0.167,14.011,2840655.834,19129828.385,43.193,-77.63
+3561_-9755,OK,Oklahoma,5,Oklahoma City,N Pennsylvania Ave,Local,City / County,Intersection redesign,25,5.0,52.62,0.6,0.12,0.12,13.892,2816477.263,18967002.638,35.609,-97.55
+4005_-7631,PA,Lancaster,4,Lancaster,E Liberty St,Local,City / County,Intersection redesign,20,7.0,48.542,0.65,0.0,0.3,13.883,2814736.941,18955282.788,40.05,-76.309
+3582_-7863,NC,Wake,40,Raleigh,E Six Forks Rd,Local,City / County,Intersection redesign,20,7.0,48.542,0.65,0.0,0.25,13.883,2814736.941,18955282.788,35.82,-78.629
+3515_-8079,NC,Mecklenburg,45,Charlotte,Sardis Rd,Local,City / County,Intersection redesign,23,8.0,55.807,0.565,0.087,0.13,13.879,2813932.581,18949865.988,35.153,-80.794
+2804_-8250,FL,Hillsborough,1,Tampa,W Linebaugh Ave,Local,City / County,Intersection redesign,20,11.0,57.108,0.55,0.0,0.1,13.82,2801979.429,18869369.879,28.04,-82.504
+3297_-8020,SC,Dorchester,1,Summerville,Dorchester Rd,Local,City / County,Intersection redesign,23,10.0,60.135,0.522,0.0,0.174,13.805,2798880.436,18848500.33,32.968,-80.2
+2971_-9550,TX,Harris,35,Houston,Gulfton St,Local,City / County,Intersection redesign,22,12.0,62.708,0.5,0.0,0.136,13.796,2797027.727,18836023.63,29.711,-95.499
+2974_-9557,TX,Harris,35,Houston,Westheimer Rd,Local,City / County,Intersection redesign,22,12.0,62.708,0.5,0.0,0.136,13.796,2797027.727,18836023.63,29.737,-95.571
+4240_-8322,MI,Wayne,2,Detroit,Grand River Ave,Local,City / County,Intersection redesign,28,7.0,62.015,0.5,0.143,0.393,13.643,2766127.039,18627929.131,42.4,-83.218
+4236_-7106,MA,Suffolk,2,Boston,Callahan Tunnel,Local,City / County,Intersection redesign,24,6.0,53.137,0.583,0.042,0.167,13.639,2765160.561,18621420.574,42.362,-71.057
+3279_-9676,TX,Dallas,16,Dallas,I-30 E,Local,City / County,Friction / drainage resurfacing,55,24.0,144.172,0.127,0.182,0.309,13.631,2763602.312,18610926.861,32.79,-96.761
+3407_-11737,CA,San Bernardino,1,Bloomington,S Riverside Ave,Local,City / County,Intersection redesign,24,10.0,61.838,0.5,0.0,0.375,13.604,2758256.219,18574924.666,34.069,-117.371
+3410_-11819,CA,Los Angeles,14,Los Angeles,Arroyo Seco Pkwy,State/US/Fwy,State DOT,Intersection redesign,21,11.0,58.844,0.524,0.143,0.333,13.562,2749652.548,18516984.968,34.104,-118.192
+3032_-8153,FL,Duval,3,Jacksonville,Atlantic Blvd,Local,City / County,Intersection redesign,21,11.0,58.844,0.524,0.143,0.19,13.562,2749652.548,18516984.968,30.323,-81.527
+3299_-8010,SC,Berkeley,1,Ladson,College Park Rd,Local,City / County,Intersection redesign,25,8.0,59.185,0.52,0.12,0.12,13.541,2745486.783,18488931.457,32.99,-80.1
+2792_-8273,FL,Pinellas,2,Clearwater,US Highway 19 N,State/US/Fwy,State DOT,Intersection redesign,22,7.0,51.943,0.591,0.045,0.227,13.505,2738141.152,18439463.774,27.918,-82.731
+3577_-7869,NC,Wake,41,Raleigh,Gorman St,Local,City / County,Intersection redesign,21,5.0,45.906,0.667,0.143,0.333,13.466,2730153.751,18385674.216,35.769,-78.692
+2977_-9556,TX,Harris,37,Houston,Memorial Dr,Local,City / County,Intersection redesign,20,8.0,50.696,0.6,0.0,0.2,13.384,2713484.96,18273421.583,29.771,-95.562
+4001_-7529,PA,Montgomery,7,Ardmore,E Lancaster Ave,Local,City / County,Intersection redesign,26,6.0,56.484,0.538,0.0,0.154,13.382,2713225.599,18271674.968,40.008,-75.29
+3509_-8081,NC,Mecklenburg,46,Charlotte,Pineville-Matthews Rd,Local,City / County,Intersection redesign,23,7.0,53.635,0.565,0.0,0.043,13.339,2704377.66,18212090.288,35.088,-80.811
+4023_-7526,PA,Montgomery,8,North Wales,N Wales Rd,Local,City / County,Intersection redesign,23,5.0,49.273,0.609,0.0,0.13,13.197,2675556.116,18017997.368,40.228,-75.261
+4070_-11194,UT,Salt Lake,3,West Valley City,S Redwood Rd,Local,City / County,Intersection redesign,24,7.0,55.321,0.542,0.083,0.208,13.185,2673159.399,18001857.155,40.698,-111.939
+3347_-11204,AZ,Maricopa,7,Phoenix,E McDowell Rd,Local,City / County,Intersection redesign,21,8.0,52.406,0.571,0.0,0.238,13.176,2671476.169,17990521.779,33.468,-112.038
+3748_-12221,CA,San Mateo,1,Redwood City, Middlefield Rd,Local,City / County,Intersection redesign,24,9.0,59.672,0.5,0.042,0.25,13.128,2661607.438,17924062.786,37.478,-122.21
+4315_-7760,NY,Monroe,3,Rochester,Monroe Ave,Local,City / County,Intersection redesign,24,9.0,59.672,0.5,0.125,0.292,13.128,2661607.438,17924062.786,43.15,-77.6
+3420_-11834,CA,Los Angeles,15,Burbank,I-5 N,Interstate,State DOT,Friction / drainage resurfacing,62,18.0,141.983,0.097,0.177,0.339,13.099,2655793.982,17884913.231,34.2,-118.338
+4018_-7513,PA,Montgomery,9,Horsham,Horsham Rd,Local,City / County,Intersection redesign,21,6.0,48.079,0.619,0.0,0.048,13.096,2655131.492,17880451.825,40.18,-75.131
+3344_-11211,AZ,Maricopa,8,Phoenix,W Buckeye Rd,Local,City / County,Intersection redesign,24,5.0,50.949,0.583,0.0,0.375,13.077,2651278.778,17854506.492,33.439,-112.108
+3048_-9112,LA,East Baton Rouge,7,Baton Rouge,Airline Hwy,Local,City / County,Intersection redesign,22,6.0,49.771,0.591,0.045,0.227,12.94,2623606.462,17668152.814,30.48,-91.117
+3856_-12147,CA,Sacramento,8,Sacramento,CA-16 W,State/US/Fwy,State DOT,Friction / drainage resurfacing,69,26.0,171.295,0.087,0.145,0.217,12.909,2617286.338,17625591.207,38.56,-121.471
+3585_-7860,NC,Wake,42,Raleigh,E Millbrook Rd,Local,City / County,Intersection redesign,22,10.0,58.424,0.5,0.091,0.182,12.853,2605956.238,17549290.912,35.849,-78.6
+2974_-9561,TX,Harris,38,Houston,Westheimer Rd,Local,City / County,Intersection redesign,20,7.0,48.542,0.6,0.0,0.05,12.815,2598218.715,17497184.112,29.737,-95.608
+3295_-9673,TX,Dallas,17,Richardson,US-75 N,State/US/Fwy,State DOT,Intersection redesign,20,7.0,48.542,0.6,0.05,0.15,12.815,2598218.715,17497184.112,32.951,-96.735
+2808_-8274,FL,Pinellas,3,Palm Harbor,US Highway 19 N,State/US/Fwy,State DOT,Intersection redesign,23,8.0,55.807,0.522,0.043,0.043,12.811,2597476.229,17492183.989,28.08,-82.739
+3489_-8207,SC,Spartanburg,4,Duncan,Reidville Rd,Local,City / County,Intersection redesign,23,8.0,55.807,0.522,0.217,0.13,12.811,2597476.229,17492183.989,34.888,-82.068
+2796_-8275,FL,Pinellas,4,Clearwater,S Belcher Rd,Local,City / County,Intersection redesign,20,9.0,52.842,0.55,0.0,0.25,12.788,2592652.834,17459701.805,27.96,-82.748
+3042_-9770,TX,Travis,12,Austin,W Parmer Ln,Local,City / County,Intersection redesign,27,5.0,55.949,0.519,0.0,0.185,12.765,2587994.503,17428331.201,30.419,-97.702
+2981_-9536,TX,Harris,39,Houston,Irvington Blvd,Local,City / County,Intersection redesign,24,6.0,53.137,0.542,0.042,0.25,12.664,2567649.092,17291319.104,29.813,-95.36
+2981_-9546,TX,Harris,39,Houston,Mangum Rd,Local,City / County,Intersection redesign,24,6.0,53.137,0.542,0.083,0.292,12.664,2567649.092,17291319.104,29.811,-95.46
+3532_-8073,NC,Mecklenburg,47,Charlotte,Mallard Creek Church Rd,Local,City / County,Intersection redesign,24,6.0,53.137,0.542,0.125,0.167,12.664,2567649.092,17291319.104,35.321,-80.733
+2970_-9536,TX,Harris,41,Houston,Scott St,Local,City / County,Intersection redesign,24,8.0,57.499,0.5,0.125,0.167,12.65,2564693.469,17271415.051,29.701,-95.361
+3585_-7861,NC,Wake,43,Raleigh,E Millbrook Rd,Local,City / County,Intersection redesign,24,8.0,57.499,0.5,0.167,0.042,12.65,2564693.469,17271415.051,35.85,-78.613
+3040_-9785,TX,Travis,13,Austin,Bullick Hollow Rd,Local,City / County,Intersection redesign,20,5.0,44.215,0.65,0.0,0.15,12.645,2563820.866,17265538.681,30.403,-97.853
+3781_-12224,CA,Alameda,5,Oakland,I-580 E,Interstate,State DOT,Friction / drainage resurfacing,44,15.0,106.127,0.0,0.227,0.318,12.542,2542904.757,17124683.333,37.808,-122.24
+3489_-8240,SC,Greenville,18,Greenville,State Park Rd,Local,City / County,Intersection redesign,21,5.0,45.906,0.619,0.048,0.095,12.504,2535142.769,17072411.772,34.891,-82.401
+3036_-9773,TX,Travis,14,Austin,Burnet Rd,Local,City / County,Intersection redesign,22,7.0,51.943,0.545,0.0,0.182,12.466,2527514.91,17021043.484,30.358,-97.73
+3525_-8079,NC,Mecklenburg,48,Charlotte,E Sugar Creek Rd,Local,City / County,Intersection redesign,20,8.0,50.696,0.55,0.1,0.15,12.268,2487361.214,16750636.451,35.248,-80.789
+3580_-7849,NC,Wake,44,Knightdale,Knightdale Blvd,Local,City / County,Intersection redesign,20,6.0,46.382,0.6,0.0,0.1,12.245,2482582.413,16718454.576,35.798,-78.49
+3505_-8077,NC,Mecklenburg,49,Charlotte,Providence Rd,Local,City / County,Intersection redesign,24,7.0,55.321,0.5,0.083,0.167,12.171,2467531.753,16617098.912,35.052,-80.77
+3747_-12221,CA,San Mateo,2,Redwood City, El Camino Real,Local,City / County,Intersection redesign,20,10.0,54.979,0.5,0.0,0.15,12.095,2452308.956,16514584.037,37.47,-122.209
+3413_-11767,CA,San Bernardino,2,Upland,N Mountain Ave,State/US/Fwy,State DOT,Friction / drainage resurfacing,38,15.0,96.25,0.0,0.237,0.421,11.854,2403337.144,16184793.165,34.135,-117.67
+3412_-11730,CA,San Bernardino,2,San Bernardino,I-215 N,Interstate,State DOT,Friction / drainage resurfacing,38,15.0,96.25,0.105,0.237,0.316,11.854,2403337.144,16184793.165,34.121,-117.303
+3517_-8090,NC,Mecklenburg,50,Charlotte,W Tyvola Rd,Local,City / County,Intersection redesign,20,7.0,48.542,0.55,0.0,0.2,11.747,2381700.488,16039085.436,35.17,-80.903
+3016_-9769,TX,Travis,15,Austin,Dee Gabriel Collins Rd,Local,City / County,Intersection redesign,20,5.0,44.215,0.6,0.0,0.15,11.673,2366603.876,15937420.321,30.163,-97.692
+3516_-8097,NC,Mecklenburg,51,Charlotte,Steele Creek Rd,Local,City / County,Intersection redesign,21,7.0,50.246,0.524,0.095,0.143,11.58,2347900.828,15811468.385,35.161,-80.97
+3780_-12227,CA,Alameda,6,Oakland,I-880 S,Interstate,State DOT,Friction / drainage resurfacing,41,15.0,101.203,0.463,0.22,0.488,11.552,2342126.117,15772579.752,37.797,-122.271
+3025_-8154,FL,Duval,4,Jacksonville,Gate Pkwy N,State/US/Fwy,State DOT,Intersection redesign,21,5.0,45.906,0.571,0.048,0.095,11.542,2340131.786,15759149.328,30.25,-81.537
+4028_-11172,UT,Utah,1,Orem,I-15 S,Interstate,State DOT,Friction / drainage resurfacing,25,9.0,61.363,0.28,0.36,0.24,11.487,2328983.156,15684071.107,40.277,-111.72
+3530_-8080,NC,Mecklenburg,52,Charlotte,Mallard Creek Rd,Local,City / County,Intersection redesign,23,5.0,49.273,0.522,0.087,0.217,11.311,2293333.814,15443997.744,35.301,-80.801
+4188_-8764,IL,Cook,5,Chicago,S Canal St,Local,City / County,Intersection redesign,24,5.0,50.949,0.5,0.083,0.25,11.209,2272524.667,15303862.708,41.878,-87.641
+4235_-7105,MA,Suffolk,3,Boston,Congress St,Local,City / County,Intersection redesign,21,6.0,48.079,0.524,0.143,0.238,11.081,2246649.724,15129613.083,42.352,-71.051
+4769_-12234,WA,King,4,Seattle,N 85th St,Local,City / County,Friction / drainage resurfacing,22,7.0,51.943,0.955,0.409,0.318,11.05,2240297.306,15086833.997,47.69,-122.343
+3025_-8176,FL,Duval,5,Jacksonville,W Beltway S,Local,City / County,Friction / drainage resurfacing,29,9.0,68.077,0.034,0.31,0.345,10.986,2227402.667,14999997.629,30.249,-81.763
+3925_-7668,MD,Baltimore County,1,Halethorpe,I-95 N,Interstate,State DOT,Friction / drainage resurfacing,34,13.0,85.2,0.0,0.235,0.353,10.424,2113526.57,14233121.832,39.25,-76.68
+3523_-8093,NC,Mecklenburg,53,Charlotte,Harlee Ave,Local,City / County,Intersection redesign,20,6.0,46.382,0.5,0.05,0.3,10.204,2068818.678,13932045.48,35.231,-80.933
+3045_-9111,LA,East Baton Rouge,8,Baton Rouge,Lobdell Ave,Local,City / County,Intersection redesign,20,6.0,46.382,0.5,0.05,0.25,10.204,2068818.678,13932045.48,30.45,-91.112
+2573_-8043,FL,Miami-Dade,13,Miami, SW 42nd St,Local,City / County,Friction / drainage resurfacing,22,15.0,69.062,0.182,0.273,0.0,9.794,1985737.296,13372550.536,25.729,-80.43
+3050_-8723,FL,Escambia,1,Pensacola,I-110 N,Interstate,State DOT,Friction / drainage resurfacing,31,6.0,64.778,0.032,0.29,0.419,9.779,1982733.49,13352322.004,30.502,-87.229
+3218_-11096,AZ,Pima,7,Tucson, E Ajo Way,Local,City / County,Intersection redesign,20,5.0,44.215,0.5,0.0,0.25,9.727,1972169.897,13281183.601,32.18,-110.957
+3732_-12196,CA,Santa Clara,3,San Jose,I-280 N,Interstate,State DOT,Friction / drainage resurfacing,32,14.0,84.051,0.031,0.219,0.344,9.561,1938409.978,13053834.185,37.317,-121.959
+3393_-11821,CA,Los Angeles,16,Lynwood,Long Beach Blvd,Local,City / County,Friction / drainage resurfacing,56,16.0,127.835,0.018,0.143,0.286,9.496,1925336.104,12965790.796,33.926,-118.211
+2796_-8249,FL,Hillsborough,2,Tampa,N Armenia Ave,Interstate,State DOT,Friction / drainage resurfacing,27,11.0,69.092,0.481,0.259,0.185,9.315,1888493.049,12717678.613,27.956,-82.488
+3767_-12247,CA,San Mateo,3,Daly City,I-280 S,Interstate,State DOT,Friction / drainage resurfacing,31,11.0,75.805,0.0,0.226,0.323,8.901,1804639.786,12152985.585,37.672,-122.469
+3421_-11823,CA,Los Angeles,17,Montrose,Ocean View Blvd,Local,City / County,Friction / drainage resurfacing,33,11.0,79.134,0.061,0.212,0.152,8.729,1769723.096,11917846.125,34.212,-118.229
+3411_-11818,CA,Los Angeles,18,Los Angeles,Arroyo Seco Pkwy,State/US/Fwy,State DOT,Friction / drainage resurfacing,39,12.0,91.255,0.077,0.179,0.282,8.517,1726822.083,11628937.833,34.112,-118.179
+3273_-9682,TX,Dallas,18,Dallas,I-35E N,Interstate,State DOT,Friction / drainage resurfacing,23,7.0,53.635,0.174,0.304,0.522,8.488,1720967.602,11589512.001,32.734,-96.824
+3790_-12207,CA,Contra Costa,1,Walnut Creek,I-680 N,Interstate,State DOT,Friction / drainage resurfacing,41,12.0,94.535,0.049,0.171,0.293,8.393,1701613.985,11459178.945,37.899,-122.071
+3715_-12198,CA,Santa Clara,4,Los Gatos,Santa Cruz Hwy,Local,City / County,Friction / drainage resurfacing,33,5.0,65.847,0.394,0.242,0.424,8.301,1682940.376,11333425.258,37.146,-121.985
+3798_-12204,CA,Contra Costa,2,Concord,CA-242 S,State/US/Fwy,State DOT,Friction / drainage resurfacing,30,8.0,67.542,0.0,0.233,0.3,8.195,1661518.968,11189167.075,37.981,-122.042
+3901_-7715,MD,Montgomery,1,Bethesda,I-270 Spur S,Interstate,State DOT,Friction / drainage resurfacing,22,9.0,56.271,0.0,0.273,0.545,7.98,1617952.732,10895778.971,39.01,-77.151
+3365_-11776,CA,Orange,2,Irvine,I-405 N,Interstate,State DOT,Friction / drainage resurfacing,31,12.0,77.998,0.0,0.194,0.226,7.85,1591584.448,10718207.038,33.651,-117.761
+3844_-12272,CA,Sonoma,2,Santa Rosa,Redwood Hwy S,Local,City / County,Friction / drainage resurfacing,21,8.0,52.406,0.095,0.286,0.095,7.786,1578599.554,10630762.869,38.44,-122.72
+3333_-11716,CA,San Diego,1,Fallbrook,Escondido Fwy N,State/US/Fwy,State DOT,Friction / drainage resurfacing,32,11.0,77.472,0.094,0.188,0.375,7.553,1531443.394,10313199.14,33.329,-117.159
+3357_-11212,AZ,Maricopa,9,Phoenix,W Dunlap Ave,State/US/Fwy,State DOT,Friction / drainage resurfacing,47,16.0,113.259,0.489,0.128,0.191,7.518,1524338.736,10265354.245,33.569,-112.117
+3801_-12227,CA,Contra Costa,3,Hercules,I-80 E,Interstate,State DOT,Friction / drainage resurfacing,24,8.0,57.499,0.0,0.25,0.25,7.475,1515500.686,10205836.167,38.013,-122.271
+3817_-12220,CA,Solano,1,American Canyon,I-80 E,Interstate,State DOT,Friction / drainage resurfacing,32,10.0,75.27,0.031,0.188,0.406,7.339,1487922.263,10020114.79,38.169,-122.201
+3716_-12198,CA,Santa Clara,5,Los Gatos,Santa Cruz Hwy,Local,City / County,Friction / drainage resurfacing,43,7.0,86.603,0.0,0.163,0.233,7.331,1486335.249,10009427.367,37.158,-121.982
+3856_-12151,CA,Sacramento,9,Sacramento,I-5 N,Interstate,State DOT,Friction / drainage resurfacing,27,7.0,60.348,0.0,0.222,0.259,6.974,1413865.9,9521397.035,38.561,-121.514
+3427_-11843,CA,Los Angeles,19,Pacoima,CA-118 E,State/US/Fwy,State DOT,Friction / drainage resurfacing,27,12.0,71.264,0.111,0.185,0.259,6.862,1391343.863,9369726.878,34.272,-118.429
+3358_-11189,AZ,Maricopa,10,Scottsdale,E Shea Blvd,Local,City / County,Friction / drainage resurfacing,21,8.0,52.406,0.571,0.238,0.286,6.488,1315499.628,8858969.058,33.58,-111.89
+3773_-12240,CA,San Francisco,2,San Francisco,James Lick Fwy N,State/US/Fwy,State DOT,Friction / drainage resurfacing,25,9.0,61.363,0.12,0.2,0.4,6.382,1293879.531,8713372.837,37.729,-122.403
+3302_-11708,CA,San Diego,2,San Diego,Escondido Fwy N,State/US/Fwy,State DOT,Friction / drainage resurfacing,28,10.0,68.594,0.036,0.179,0.179,6.369,1291379.128,8696534.372,33.021,-117.079
+3799_-12253,CA,Marin,1,San Rafael,Redwood Hwy,Local,City / County,Friction / drainage resurfacing,26,9.0,63.049,0.0,0.192,0.308,6.305,1278295.692,8608426.593,37.991,-122.529
+3769_-12207,CA,Alameda,7,Castro Valley,I-580 W,Local,City / County,Friction / drainage resurfacing,22,7.0,51.943,0.364,0.227,0.273,6.139,1244609.615,8381574.443,37.691,-122.072
+3417_-11839,CA,Los Angeles,20,Valley Village,CA-170 S,State/US/Fwy,State DOT,Friction / drainage resurfacing,22,5.0,47.592,0.0,0.227,0.227,5.625,1140354.081,7679486.411,34.172,-118.389

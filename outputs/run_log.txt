@@ -1,0 +1,60 @@
+rows 500000 | non-crash construction events dropped 1016 | 2023 partial-year rows dropped 15764
+by year
+ Source  Source1  Source2  Source3
+yr                               
+2016       8336    18233       94
+2017      11026    35007      481
+2018      10754    46089      735
+2019      17011    43620     1221
+2020      45981    28770     1404
+2021      72401    28076     1263
+2022      98350    14249     1135
+2023      15764        0        0
+SEVERITY TRAP: share Sev3+ by source {'Source1': 8.4, 'Source2': 34.0, 'Source3': 30.9}
+road class share {'Local': 0.551, 'Interstate': 0.249, 'State/US/Fwy': 0.2}
+top 1% of 2016-20 sites (781): 13.1% of 2016-20 crashes -> 8.4% of 2021-22
+top 5% of 2016-20 sites (3906): 35.4% of 2016-20 crashes -> 23.9% of 2021-22
+of top100 2016-20 sites, still in top 1000 in 2021-22: 95
+RTM fit: future_2yr = 0.534 * n^0.947; network ratio=0.799
+            sites   past  future  ratio
+bin                                    
+[5, 10)      7721   6.49    4.04   0.62
+[10, 20)     4022  13.35    7.81   0.58
+[20, 40)     1635  26.30   14.15   0.54
+[40, 80)      361  50.55   25.35   0.50
+[80, 1000)     43  96.21   45.26   0.47
+night min10: flagged 13, testable 11, past obs/exp 2.01, FUTURE obs/exp 1.17 (crashes 297), unflagged future 0.89
+night min20: flagged 8, testable 7, past obs/exp 1.82, FUTURE obs/exp 1.11 (crashes 298), unflagged future 0.92
+wet min10: flagged 102, testable 71, past obs/exp 4.09, FUTURE obs/exp 1.31 (crashes 945), unflagged future 0.91
+wet min20: flagged 31, testable 30, past obs/exp 3.62, FUTURE obs/exp 1.30 (crashes 572), unflagged future 0.88
+V_LOW 38,276  V_HIGH 128,880  annuity 10.594  scale 15.46
+eligible sites 4125
+                                 sites   low_m   high_m
+project                                                
+Corridor study                    3546     0.0      0.0
+Friction / drainage resurfacing     52   119.2    803.0
+Interchange / ramp study           142     0.0      0.0
+Intersection redesign              385  1805.4  12158.2
+               sites   low_m
+buyer                       
+City / County    384  1766.1
+State DOT         53   158.6
+SoCal sites 26 low $M 101.5 high $M 683.8 {'City / County': 85.5, 'State DOT': 16.1} {'Los Angeles': 20, 'Orange': 2, 'Riverside': 1, 'San Bernardino': 3} {'Intersection redesign': 17, 'Friction / drainage resurfacing': 9}
+                  county         city                street   road          buyer                project   n  n_recent  annual_crashes  benefit_low  benefit_high
+site                                                                                                                                                             
+3402_-11816  Los Angeles  Los Angeles        E Olympic Blvd  Local  City / County  Intersection redesign  87      32.0           214.0   10074420.0    67844168.0
+3406_-11824  Los Angeles  Los Angeles            N Broadway  Local  City / County  Intersection redesign  53      18.0           127.0    7295969.0    49133244.0
+3419_-11832  Los Angeles      Burbank        W Burbank Blvd  Local  City / County  Intersection redesign  50      17.0           120.0    6013751.0    40498405.0
+3396_-11829  Los Angeles  Los Angeles      W Manchester Ave  Local  City / County  Intersection redesign  27      22.0            93.0    5810202.0    39127642.0
+3385_-11792       Orange      Anaheim        N Anaheim Blvd  Local  City / County  Intersection redesign  38      18.0           103.0    5312116.0    35773381.0
+3403_-11816  Los Angeles  Los Angeles           S Woods Ave  Local  City / County  Intersection redesign  37      22.0           110.0    5034773.0    33905675.0
+3399_-11836  Los Angeles  Los Angeles         S Fairfax Ave  Local  City / County  Intersection redesign  38      17.0           101.0    4962323.0    33417772.0
+3405_-11820  Los Angeles  Los Angeles  San Bernardino Fwy W  Local  City / County  Intersection redesign  41       9.0            88.0    4586906.0    30889600.0
+3403_-11842  Los Angeles  Los Angeles          Overland Ave  Local  City / County  Intersection redesign  43      11.0            96.0    4560099.0    30709072.0
+3389_-11828  Los Angeles      Gardena  E Redondo Beach Blvd  Local  City / County  Intersection redesign  34      15.0            90.0    4466250.0    30077068.0
+case-study top10 intersection crashes 255
+{'overnight 22-05': (15.0, 2.1), 'am peak 6-9': (16.0, 5.3), 'midday 9-15': (32.5, 5.4), 'pm peak 15-19': (24.0, 6.0), 'evening 19-22': (11.5, 3.8)}
+TOP SITE 3402_-11816 {'lat': 34.01984102298851, 'lng': -118.15872937931036}
+{'E Olympic Blvd': 9, ' Whittier Blvd': 8, 'S Atlantic Blvd': 5, ' S Atlantic Blvd': 4, 'Whittier Blvd': 4}
+['Lane blocked due to accident on Clela Ave at Hubbard St.', 'Two lanes blocked due to accident on Verona St both ways at Atlantic Blvd.', 'Accident on Atlantic Blvd at Verona St.', 'Accident on Fetterly Ave at CA-72 Whittier Blvd.', 'Accident on Olympic Blvd near Goodrich Blvd.', 'Accident on S Ferris Ave from Whittier Blvd to Hubbard St.']
+{2016: 6, 2017: 5, 2018: 8, 2019: 6, 2020: 13, 2021: 2, 2022: 6} {'Source2': 24, 'Source1': 21, 'Source3': 1}

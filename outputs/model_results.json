@@ -1,0 +1,35 @@
+{
+ "k": 705,
+ "n": 13782,
+ "rows": {
+  "Random": {
+   "auc": 0.508,
+   "ap": 0.052,
+   "precision": 0.057,
+   "captured": 0.053
+  },
+  "Past count": {
+   "auc": 0.856,
+   "ap": 0.443,
+   "precision": 0.445,
+   "captured": 0.172
+  },
+  "ML": {
+   "auc": 0.855,
+   "ap": 0.444,
+   "precision": 0.451,
+   "captured": 0.171
+  }
+ },
+ "ci": [
+  -0.014184397163120588,
+  0.019858156028368795
+ ],
+ "drop": {
+  "History": 0.163,
+  "Neighbors": 0.008,
+  "Coverage": 0.007,
+  "Road": -0.001,
+  "Conditions": -0.001
+ }
+}

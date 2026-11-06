@@ -1,0 +1,27 @@
+site,state,county,county_rank,city,street,road,buyer,project,n,n_recent,annual_crashes,intx_share,wet_share,night_share,crashes_avoided_yr,benefit_low,benefit_high,lat,lng
+3402_-11816,CA,Los Angeles,1,Los Angeles,E Olympic Blvd,Local,City / County,Intersection redesign,87,32.0,213.587,0.529,0.011,0.299,49.69,10074420.284,67844167.825,34.02,-118.159
+3406_-11824,CA,Los Angeles,2,Los Angeles,N Broadway,Local,City / County,Intersection redesign,53,18.0,127.489,0.642,0.0,0.415,35.986,7295969.135,49133244.448,34.057,-118.241
+3419_-11832,CA,Los Angeles,3,Burbank,W Burbank Blvd,Local,City / County,Intersection redesign,50,17.0,120.379,0.56,0.02,0.3,29.661,6013751.298,40498404.953,34.186,-118.32
+3396_-11829,CA,Los Angeles,4,Los Angeles, W Manchester Ave,Local,City / County,Intersection redesign,27,22.0,92.554,0.704,0.0,0.259,28.657,5810201.837,39127641.833,33.96,-118.288
+3385_-11792,CA,Orange,1,Anaheim,N Anaheim Blvd,Local,City / County,Intersection redesign,38,18.0,102.854,0.579,0.0,0.368,26.201,5312115.825,35773381.234,33.854,-117.92
+3403_-11816,CA,Los Angeles,5,Los Angeles, S Woods Ave,Local,City / County,Intersection redesign,37,22.0,109.906,0.514,0.0,0.27,24.833,5034773.485,33905674.737,34.03,-118.159
+3399_-11836,CA,Los Angeles,6,Los Angeles,S Fairfax Ave,Local,City / County,Intersection redesign,38,17.0,100.657,0.553,0.026,0.289,24.476,4962323.091,33417772.053,33.989,-118.36
+3405_-11820,CA,Los Angeles,7,Los Angeles,San Bernardino Fwy W,Local,City / County,Intersection redesign,41,9.0,87.839,0.585,0.049,0.244,22.624,4586905.939,30889600.35,34.054,-118.203
+3403_-11842,CA,Los Angeles,8,Los Angeles,Overland Ave,Local,City / County,Intersection redesign,43,11.0,95.567,0.535,0.093,0.302,22.492,4560098.666,30709072.132,34.032,-118.418
+3389_-11828,CA,Los Angeles,9,Gardena,E Redondo Beach Blvd,Local,City / County,Intersection redesign,34,15.0,89.591,0.559,0.0,0.235,22.029,4466250.11,30077067.809,33.89,-118.279
+3396_-11824,CA,Los Angeles,10,Los Angeles, Firestone Blvd,Local,City / County,Intersection redesign,36,12.0,86.312,0.556,0.0,0.167,21.098,4277638.065,28806897.729,33.96,-118.241
+3390_-11827,CA,Los Angeles,11,Gardena,E Rosecrans Ave,Local,City / County,Intersection redesign,31,14.0,82.37,0.581,0.032,0.323,21.044,4266635.748,28732804.823,33.901,-118.268
+3399_-11837,CA,Los Angeles,12,Los Angeles,W Slauson Ave,Local,City / County,Intersection redesign,29,20.0,91.886,0.517,0.0,0.172,20.912,4239815.684,28552190.467,33.988,-118.37
+3417_-11854,CA,Los Angeles,13,Tarzana,Reseda Blvd,Local,City / County,Intersection redesign,31,8.0,69.2,0.677,0.032,0.355,20.626,4181879.051,28162027.804,34.173,-118.537
+3370_-11708,CA,Riverside,1,Winchester,Winchester Rd,Local,City / County,Intersection redesign,22,13.0,64.836,0.682,0.0,0.273,19.451,3943599.269,26557380.286,33.697,-117.084
+3407_-11737,CA,San Bernardino,1,Bloomington,S Riverside Ave,Local,City / County,Intersection redesign,24,10.0,61.838,0.5,0.0,0.375,13.604,2758256.219,18574924.666,34.069,-117.371
+3410_-11819,CA,Los Angeles,14,Los Angeles,Arroyo Seco Pkwy,State/US/Fwy,State DOT,Intersection redesign,21,11.0,58.844,0.524,0.143,0.333,13.562,2749652.548,18516984.968,34.104,-118.192
+3420_-11834,CA,Los Angeles,15,Burbank,I-5 N,Interstate,State DOT,Friction / drainage resurfacing,62,18.0,141.983,0.097,0.177,0.339,13.099,2655793.982,17884913.231,34.2,-118.338
+3413_-11767,CA,San Bernardino,2,Upland,N Mountain Ave,State/US/Fwy,State DOT,Friction / drainage resurfacing,38,15.0,96.25,0.0,0.237,0.421,11.854,2403337.144,16184793.165,34.135,-117.67
+3412_-11730,CA,San Bernardino,2,San Bernardino,I-215 N,Interstate,State DOT,Friction / drainage resurfacing,38,15.0,96.25,0.105,0.237,0.316,11.854,2403337.144,16184793.165,34.121,-117.303
+3393_-11821,CA,Los Angeles,16,Lynwood,Long Beach Blvd,Local,City / County,Friction / drainage resurfacing,56,16.0,127.835,0.018,0.143,0.286,9.496,1925336.104,12965790.796,33.926,-118.211
+3421_-11823,CA,Los Angeles,17,Montrose,Ocean View Blvd,Local,City / County,Friction / drainage resurfacing,33,11.0,79.134,0.061,0.212,0.152,8.729,1769723.096,11917846.125,34.212,-118.229
+3411_-11818,CA,Los Angeles,18,Los Angeles,Arroyo Seco Pkwy,State/US/Fwy,State DOT,Friction / drainage resurfacing,39,12.0,91.255,0.077,0.179,0.282,8.517,1726822.083,11628937.833,34.112,-118.179
+3365_-11776,CA,Orange,2,Irvine,I-405 N,Interstate,State DOT,Friction / drainage resurfacing,31,12.0,77.998,0.0,0.194,0.226,7.85,1591584.448,10718207.038,33.651,-117.761
+3427_-11843,CA,Los Angeles,19,Pacoima,CA-118 E,State/US/Fwy,State DOT,Friction / drainage resurfacing,27,12.0,71.264,0.111,0.185,0.259,6.862,1391343.863,9369726.878,34.272,-118.429
+3417_-11839,CA,Los Angeles,20,Valley Village,CA-170 S,State/US/Fwy,State DOT,Friction / drainage resurfacing,22,5.0,47.592,0.0,0.227,0.227,5.625,1140354.081,7679486.411,34.172,-118.389
